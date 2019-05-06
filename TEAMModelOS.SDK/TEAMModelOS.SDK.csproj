@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AspectCore.Extensions.Reflection" Version="1.2.0" />
+    <PackageReference Include="AutoFixture" Version="4.8.0" />
+    <PackageReference Include="BCrypt.Net-Next" Version="3.1.3" />
+    <PackageReference Include="BinaryTree" Version="5.0.0" />
+    <PackageReference Include="FreeSql" Version="0.5.7" />
+    <PackageReference Include="Google.Protobuf" Version="3.7.0" />
+    <PackageReference Include="Grpc" Version="1.19.0" />
+    <PackageReference Include="Grpc.HealthCheck" Version="1.19.0" />
+    <PackageReference Include="IdentityModel" Version="3.10.6" />
+    <PackageReference Include="LiteDB" Version="4.1.4" />
+    <PackageReference Include="MessagePack" Version="1.7.3.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Azure.DocumentDB" Version="2.3.0" />
+    <PackageReference Include="Microsoft.Azure.CosmosDB.BulkExecutor" Version="2.3.0-preview2" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="2.2.0" />
+    <PackageReference Include="protobuf-net" Version="2.4.0" />
+    <PackageReference Include="Scrutor" Version="3.0.2" />
+    <PackageReference Include="sqlSugarCore" Version="4.9.9.5" />
+    <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
+    <PackageReference Include="XC.Framework.Security.RSAUtil" Version="1.0.1" />
+  </ItemGroup>
+</Project>

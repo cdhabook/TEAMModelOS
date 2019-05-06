@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\TEAMModelOS.Api\TEAMModelOS.Api.csproj" />
+    <ProjectReference Include="..\TEAMModelOS.SDK\TEAMModelOS.SDK.csproj" />
+    <ProjectReference Include="..\TEAMModelOS.Service\TEAMModelOS.Service.csproj" />
+  </ItemGroup>
+
+</Project>

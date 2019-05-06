@@ -1,0 +1,265 @@
+﻿{
+  "systemMenu": [
+    {
+      "id": 0,
+      "label": "平台模块",
+      "role": "admin",
+      "icon": "md-analytics",
+      "name": "modulars",
+      "type": "menuItem",
+      "subItem": [
+        {
+          "id": 0,
+          "label": "德育系统",
+          "role": "admin",
+          "router": "/shcoolAccount",
+          "name": "moral",
+          "icon": "md-thumbs-up"
+        },
+        {
+          "id": 1,
+          "label": " 电子班牌",
+          "role": "admin",
+          "router": "",
+          "name": "classCard",
+          "icon": "ios-stats"
+        },
+        {
+          "id": 2,
+          "label": " 排课走班",
+          "role": "admin",
+          "router": "",
+          "name": "classSchedule",
+          "icon": "ios-stats"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "label": "系统设置",
+      "role": "systemSetting",
+      "icon": "ios-settings-outline",
+      "name": "manageSchool",
+      "type": "menuItem",
+      "subItem": [
+        {
+          "id": 0,
+          "label": "菜单设置",
+          "role": "admin",
+          "router": "/shcoolAccount",
+          "name": "shcoolAccount",
+          "icon": "md-thumbs-up"
+        },
+        {
+          "id": 1,
+          "label": " 其他设置",
+          "role": "admin",
+          "router": "",
+          "name": "scoreManagement",
+          "icon": "ios-stats"
+        }
+      ]
+    }
+  ],
+  "personMenu": [
+    {
+      "id": 0,
+      "label": "个人信息",
+      "role": "admin",
+      "router": "",
+      "name": "userInfo",
+      "icon": "ios-keypad"
+    },
+    {
+      "id": 1,
+      "label": "切换身份",
+      "role": "admin",
+      "router": "",
+      "name": "switchIdentity",
+      "icon": "ios-keypad"
+    },
+    {
+      "id": 2,
+      "label": "退出登录",
+      "role": "admin",
+      "router": "/Login",
+      "name": "logout",
+      "icon": "ios-keypad"
+    }
+  ],
+  "moralFirstMenu": [
+    {
+      "id": 0,
+      "label": "班级评价",
+      "role": "admin",
+      "router": "",
+      "name": "classEvaluation",
+      "icon": "ios-keypad"
+    },
+    {
+      "id": 1,
+      "label": "寝室评价",
+      "role": "admin,sdu",
+      "router": "",
+      "name": "dormitoryEvaluation",
+      "icon": "ios-create"
+    },
+    {
+      "id": 2,
+      "label": "学生评价",
+      "role": "sutdent ",
+      "router": "",
+      "name": "studentEvaluation",
+      "icon": "ios-ribbon"
+    },
+    {
+      "id": 3,
+      "label": "学生自评",
+      "role": "admin",
+      "router": "",
+      "name": "selfEvaluation",
+      "icon": "md-thumbs-up"
+    }
+  ],
+  "moralSecondMenu": [
+    {
+      "id": 0,
+      "label": "学校管理",
+      "role": "admin",
+      "icon": "ios-school-outline",
+      "name": "manageSchool",
+      "type": "menuItem",
+      "subItem": [
+        {
+          "id": 1,
+          "label": " 教师管理",
+          "role": "admin",
+          "router": "",
+          "name": "scoreManagement",
+          "icon": "ios-stats"
+        },
+        {
+          "id": 2,
+          "label": " 学生管理",
+          "role": "admin",
+          "router": "",
+          "name": "scoreManagement1",
+          "icon": "ios-stats"
+        },
+        {
+          "id": 3,
+          "label": " 寝室管理",
+          "role": "admin",
+          "router": "",
+          "name": "scoreManagement2",
+          "icon": "ios-stats"
+        },
+        {
+          "id": 4,
+          "label": " 作业管理",
+          "role": "admin",
+          "router": "",
+          "name": "scoreManagement3",
+          "icon": "ios-stats"
+        }
+
+      ]
+    },
+    {
+      "id": 2,
+      "label": "评价标准",
+      "role": "admin",
+      "icon": "ios-paper-outline",
+      "type": "menuItem",
+      "name": "evaluationStandard",
+      "subItem": [
+        {
+          "id": 0,
+          "label": "班级评价",
+          "role": "admin",
+          "router": "/Home/ClassEvaluation",
+          "name": "1",
+          "icon": "md-thumbs-up"
+        },
+        {
+          "id": 1,
+          "label": "寝室评价",
+          "role": "admin",
+          "router": "/Home/DormEvaluation",
+          "name": "2",
+          "icon": "ios-stats"
+        },
+        {
+          "id": 2,
+          "label": "学生评价",
+          "role": "admin",
+          "router": "/Home/StudentEvaluation",
+          "name": "3",
+          "icon": "ios-stats"
+        },
+        {
+          "id": 3,
+          "label": "学生自评",
+          "role": "admin",
+          "router": "/Home/SelfEvaluation",
+          "name": "4",
+          "icon": "ios-stats"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "label": "系统管理",
+      "role": "admin",
+      "icon": "ios-paper-outline",
+      "type": "menuItem",
+      "name": "manageRole1",
+      "subItem": [
+        {
+          "id": 0,
+          "label": "角色管理",
+          "role": "admin",
+          "router": "/Home/RoleManage",
+          "name": "10",
+          "icon": "md-thumbs-up"
+        },
+        {
+          "id": 1,
+          "label": "用户管理",
+          "role": "admin",
+          "router": "/Home/UserManage",
+          "name": "20",
+          "icon": "ios-stats"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "label": "消息中心",
+      "role": "admin",
+      "icon": "ios-paper-outline",
+      "type": "menuItem",
+      "name": "message",
+      "subItem": [
+        {
+          "id": 0,
+          "label": "我发布的",
+          "role": "admin",
+          "router": "",
+          "name": "10",
+          "icon": "md-thumbs-up"
+        },
+        {
+          "id": 1,
+          "label": "我接收的",
+          "role": "admin",
+          "router": "",
+          "name": "20",
+          "icon": "ios-stats"
+        }
+      ]
+    }
+
+  ]
+
+}

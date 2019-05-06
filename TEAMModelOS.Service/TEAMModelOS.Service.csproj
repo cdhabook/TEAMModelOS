@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Moral\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TEAMModelOS.Model\TEAMModelOS.Model.csproj" />
+    <ProjectReference Include="..\TEAMModelOS.SDK\TEAMModelOS.SDK.csproj" />
+  </ItemGroup>
+
+</Project>
