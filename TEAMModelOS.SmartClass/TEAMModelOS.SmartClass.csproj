@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <UserSecretsId>a25fbaf0-43f2-412e-a606-4a19c5766202</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Providers\**" />
+    <Content Remove="Providers\**" />
+    <EmbeddedResource Remove="Providers\**" />
+    <None Remove="Providers\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Files not to show in IDE -->
+    <None Remove="ClientApp\utils\.editorconfig" />
+    <None Remove="ClientApp\view\syllabus\login.vue" />
+    <None Remove="yarn.lock" />
+
+    <!-- Files not to publish (note that the 'dist' subfolders are re-added below) -->
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="JsonFile\Core\" />
+    <Folder Include="Models\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\dist\" />
+  </ItemGroup>
+
+
+  <Target Name="RunWebpack" AfterTargets="ComputeFilesToPublish">
+    <!-- As part of publishing, ensure the JS resources are freshly built in production mode -->
+    <Exec Command="node -e &quot;console.log('NPM Installing dependencies...')&quot;" />
+    <Exec Command="npm install --ignore-scripts" />
+    <Exec Command="npm run build" />
+
+    <!-- Include the newly-built files in the publish output -->
+    <ItemGroup>
+      <DistFiles Include="wwwroot\dist\**; ClientApp\dist\**" />
+      <ResolvedFileToPublish Include="@(DistFiles->'%(FullPath)')" Exclude="@(ResolvedFileToPublish)">
+        <RelativePath>%(DistFiles.Identity)</RelativePath>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </ResolvedFileToPublish>
+    </ItemGroup>
+  </Target>
+
+  <ProjectExtensions><VisualStudio><UserProperties JsonFile_4EcharsL_1json__JSONSchema="http://json.schemastore.org/band-manifest" appsettings_1json__JSONSchema="" appsettings_1Development_1json__JSONSchema="" /></VisualStudio></ProjectExtensions>
+</Project>

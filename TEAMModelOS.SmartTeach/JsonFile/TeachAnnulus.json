@@ -1,0 +1,22 @@
+﻿{
+  "primarycolor": [ "#4169E1", "#00FFFF", "#F4A460" ],
+  "title": ["本区及格率","本校及格率","任教班及格率"],
+  "areadata": {
+    "dataname": "区域占比",
+    "occupydata": "75",
+    "remaindata": "25",
+    "subheadtitle": "本区及格率"
+  },
+  "schooldata": {
+    "dataname": "学校占比",
+    "occupydata": "79",
+    "remaindata": "21",
+    "subheadtitle": "本校及格率"
+  },
+  "teachingdata": {
+    "dataname": "任教班占比",
+    "occupydata": "68",
+    "remaindata": "32",
+    "subheadtitle": "任教班及格率"
+  }
+}

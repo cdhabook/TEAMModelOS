@@ -1,0 +1,30 @@
+﻿[
+  {
+    "value": "2017-2018",
+    "label": "2017年-2018年",
+    "children": [
+      {
+        "value": "shang",
+        "label": "上学期"
+      },
+      {
+        "value": "xia",
+        "label": "下学期"
+      }
+    ]
+  },
+  {
+    "value": "2018-2019",
+    "label": "2018年-2019年",
+    "children": [
+      {
+        "value": "shang",
+        "label": "上学期"
+      },
+      {
+        "value": "xia",
+        "label": "下学期"
+      }
+    ]
+  }
+]

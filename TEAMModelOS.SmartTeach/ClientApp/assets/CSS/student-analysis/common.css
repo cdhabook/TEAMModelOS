@@ -1,0 +1,218 @@
+/*公共样式*/
+/*整体布局 start*/
+.index {
+    width: 100%;
+    height: auto;
+}
+
+.index_box {
+    background-color: #dee2e5;
+}
+
+.index_box_title {
+    width: 100%;
+    font-size: 1.2rem;
+    color: #898d90;
+    padding: 1% 2%;
+}
+
+.content {
+    width: 96%;
+    height: 980px;
+    /*border:1px solid blue;*/
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 3%;
+    background-color: #fdfdfd;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+}
+
+.left_echarts {
+    width: 32%;
+    height: auto;
+    float: left;
+    border-right: 1px solid #d9dadc;
+}
+
+.center_echarts {
+    width: 24%;
+    height: auto;
+    float: left;
+    /*border:1px solid blue;*/
+    border-right: 1px solid #d9dadc;
+}
+
+.right_echarts {
+    width: 44%;
+    height: auto;
+    float: left;
+    /*border:1px solid green;*/
+}
+
+.bargraph_box {
+    width: 100%;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+/*.left_box{*/
+/*border: 1px solid red;*/
+/*}*/
+.right_box {
+    /*padding-bottom: 1%;*/
+    border-bottom: 1px solid #d9dadc;
+}
+/*整体布局 end*/
+
+/*侧边栏选择器 start*/
+.choose_box_tilte {
+    font-size: 0.95rem;
+    color: #7d868d;
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+
+.select {
+    width: 100%;
+    padding: 1% 10% 15% 8%;
+}
+
+.ivu-layout-sider {
+    width: 100% !important;
+    min-width: 100% !important;
+}
+
+.ivu-menu-dark {
+    background-color: #b3bdc6 !important;
+    border-bottom: 1px solid #8d97a1;
+}
+
+.ivu-menu-item {
+    font-size: 1.1rem !important;
+    color: #4b555e !important;
+}
+
+.ivu-menu-item-active, .ivu-menu-item-selected {
+    color: #fff !important;
+}
+.ivu-menu-item:hover {
+    color: #fff !important;
+}
+.choose {
+    padding-top: 5%;
+    background-color: #cfd4da;
+}
+/*侧边栏选择器 end*/
+
+/*考试选择器 start*/
+@media (max-width: 1920px) {
+    .exam_box {
+        height: 492px;
+        overflow: auto;
+    }
+}
+@media (max-width: 1366px) {
+    .exam_box {
+        height: 524px;
+        overflow: auto;
+    }
+}
+.list_box {
+    width: 100%;
+    height: 140px;
+    background-color: #b3bdc6;
+    list-style: none;
+    padding: 3% 3% 3% 7%;
+    border-bottom: 1px solid #8d97a1;
+}
+
+    .list_box:first-child {
+        border-top: 1px solid #8d97a1;
+    }
+
+    .list_box:hover {
+        background-color: #fdfdfd;
+    }
+
+.box_title {
+    font-size: 1.1rem;
+    color: #4b555e;
+}
+
+.box_time {
+    font-size: 0.8rem;
+    color: #4b555e;
+    padding-top: 5px;
+}
+
+.box_type, .box_num {
+    font-size: 0.9rem;
+    color: #85929a;
+    padding-top: 5px;
+}
+/* 设置滚动条的样式 */
+::-webkit-scrollbar {
+    width: 7px;
+}
+/*滚动槽*/
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px #b3bdc6;
+    border-radius: 10px;
+}
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: inset 0 0 6px #85929a;
+}
+
+    ::-webkit-scrollbar-thumb:window-inactive {
+        background: #85929a;
+    }
+/*考试选择器 end*/
+
+/*基础信息样式 start*/
+.basics_box {
+    width: 100%;
+    height: 155px;
+    border-bottom: 1px solid #b3b8be;
+}
+
+.basics {
+    width: 100%;
+    height: 155px;
+    /*border:1px solid red;*/
+    float: left;
+}
+
+.basicslist {
+    list-style-type: none;
+    width: 16.5%;
+    /*border:1px solid red;*/
+    padding: 0.5% 1% 0% 1%;
+    text-align: left;
+    float: left;
+    padding-left: 4%;
+}
+
+.basicslist_title {
+    font-size: 0.85rem;
+    color: #67747d;
+    font-weight: bold;
+}
+
+.basicslist_num {
+    font-size: 3.5rem;
+    color: #27353e;
+    font-weight: bold;
+}
+
+.basicslist_total {
+    font-size: 0.9rem;
+    color: #b2bcc5;
+}
+
+.basicslist_area {
+    font-size: 0.9rem;
+    color: #b2bcc5;
+}
+/*基础信息样式  end*/

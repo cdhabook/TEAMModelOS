@@ -1,0 +1,56 @@
+/* 邊角框設計 
+    使用時，最外層一定要有position: relative;
+*/
+.image-border {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+}        
+.image-border-left-top {
+    top: -2px;
+    left: -2px;
+    border-left: 2px solid #B9C1AD;
+    border-top: 2px solid #B9C1AD;
+}
+.image-border-right-top {
+    top: -2px;
+    right: -2px;
+    border-right: 2px solid #B9C1AD;
+    border-top: 2px solid #B9C1AD;
+}   
+.image-border-left-bottom {
+    bottom: -2px;
+    left: -2px;
+    border-bottom: 2px solid #B9C1AD;
+    border-left: 2px solid #B9C1AD;
+}    
+.image-border-lright-bottom {
+    bottom: -2px;
+    right: -2px;
+    border-right: 2px solid #B9C1AD;
+    border-bottom: 2px solid #B9C1AD;
+}
+
+/* 拉軸隱藏
+用兩個div將拉軸藏起來
+*/
+.scroll-outer-container{
+    position: relative;
+    overflow: hidden;
+}
+.scroll-outer-container .scroll-inner-container{
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: -18px;
+	bottom: 0;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+/* 省略字符*/
+.ellipsis {
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

@@ -1,0 +1,380 @@
+﻿{
+  "grade": "1",
+  "value": "gaozhong",
+  "label": "高中",
+  "term": [
+    {
+    "value": "2017-2018",
+    "label": "2017年-2018年",
+    "children": [
+      {
+        "value": "shang",
+        "label": "上学期"
+      },
+      {
+        "value": "xia",
+        "label": "下学期"
+      }
+    ]
+  },
+  {
+    "value": "2018-2019",
+    "label": "2018年-2019年",
+    "children": [
+      {
+        "value": "shang",
+        "label": "上学期"
+      },
+      {
+        "value": "xia",
+        "label": "下学期"
+      }
+    ]
+  }
+  ],
+  "selectgrade": [
+     {
+    "value": "gaozhong",
+    "label": "高中",
+    "children": [
+      {
+        "value": "2019",
+        "label": "2019届（一年级）"
+      }
+    ]
+  }
+  ],
+  "exam": [
+    {
+      "page": "1",
+      "returnnum": "5",
+      "data": [
+        {
+          "id": "1",
+          "title": "2018年第6次考试学情诊断",
+          "type": "校考",
+          "time": "2018-11-05",
+          "typename": "校级联考",
+          "num": "1563"
+        },
+        {
+          "id": "2",
+          "title": "2018年第5次考试学情诊断",
+          "type": "校考",
+          "time": "2018-10-05",
+          "typename": "校级联考",
+          "num": "1563"
+        },
+        {
+          "id": "3",
+          "title": "2018年第4次考试学情诊断",
+          "type": "校考",
+          "time": "2018-10-05",
+          "typename": "校级联考",
+          "num": "1563"
+        },
+        {
+          "id": "4",
+          "title": "2018年第3次考试学情诊断",
+          "type": "测试",
+          "time": "2018-10-05",
+          "typename": "测验",
+          "num": "1563"
+        },
+        {
+          "id": "5",
+          "title": "2018年第2次考试学情诊断",
+          "type": "校考",
+          "time": "2018-10-05",
+          "typename": "校级联考",
+          "num": "1563"
+        },
+        {
+          "id": "6",
+          "title": "2018年第1次考试学情诊断",
+          "type": "校考",
+          "time": "2018-10-05",
+          "typename": "校级联考",
+          "num": "1563"
+        }
+      ]
+    }
+  ],
+  "base": [
+  
+    {
+      "id": "1",
+      "title": "本次统计班级数",
+      "num": "25",
+      "total": "总班级数：25"
+    },
+    {
+      "id": "2",
+      "title": "本次统计学生数",
+      "num": "830",
+      "total": "总学生数：830"
+    },
+    {
+      "id": "3",
+      "title": "年级平均得分",
+      "num": "430",
+      "total": "全科满分：750"
+    },
+    {
+      "id": "4",
+      "title": "年级最高总分",
+      "num": "670",
+      "total": "全科总分：750"
+    },
+    {
+      "id": "5",
+      "title": "年级最低总分",
+      "num": "190",
+      "total": "全科总分：750"
+    }
+  ],
+  "barecharts": {
+    "titledata": [ "语文", "数学", "英语", "物理", "化学", "生物" ],
+    "object_name": [ "高一.一班", "高一.二班", "高一.三班", "高一.四班", "高一.五班", "高一.六班", "高一.七班" ],
+  "one_average": {
+    "name": "班级总平均分",
+    "data": [ "460" ]
+  },
+  "two_average": {
+    "name":"区域总平均分","data": [ "503" ]
+  },
+  "one_data": {
+    "name": "语文",
+    "data": [ "100", "115", "108", "99", "103", "110", "120" ]
+  },
+  "two_data": {
+    "name": "数学",
+    "data": [ "128", "120", "115", "119", "105", "90", "103" ]
+  },
+  "three_data": {
+    "name": "英语",
+    "data": [ "105", "102", "103", "100", "99", "93", "83" ]
+  },
+  "four_data": {
+    "name": "物理",
+    "data": [ "88", "70", "72", "78", "94", "76", "79" ]
+  },
+  "five_data": {
+    "name": "化学",
+    "data": [ "73", "75", "78", "61", "90", "72", "75" ]
+  },
+  "six_data": {
+    "name": "生物",
+    "data": [ "78", "60", "62", "78", "74", "76", "79" ]
+  },
+   "quyudata":{
+    "anotherone_data": {
+      "name": "语文",
+      "datalist": [ "103", "103", "103", "103", "103", "103", "103" ]
+    },
+    "anothertwo_data": {
+      "name": "数学",
+      "datalist": [ "90", "90", "90", "90", "90", "90", "90" ]
+    },
+    "anotherthree_data": {
+      "name": "英语",
+      "datalist": [ "110", "110", "110", "110", "110", "110", "110" ]
+    },
+    "anotherfour_data": {
+      "name": "物理",
+      "datalist": [ "70", "70", "70", "70", "70", "70", "70" ]
+    },
+    "anotherfive_data": {
+      "name": "化学",
+      "datalist": [ "72", "72", "72", "72", "72", "72", "72" ]
+    },
+    "anothersix_data": {
+      "name": "生物",
+      "datalist": [ "78", "78", "78", "78", "78", "78", "78" ]
+    }
+  }
+  },
+  "leida": {
+    "titledata": [ "年级数据", "区级数据" ],
+    "title_one": "年级数据" ,
+    "title_two": "区级数据",
+  "data1": [ "118", "99", "105","70","72","92"],
+    "data2": [ "102", "105", "98","80","78","85"],
+    "indicator": [
+      {
+      "name": "语文",
+      "max": 150
+    },
+    {
+      "name": "数学",
+      "max": 150
+    },
+    {
+      "name": "英语",
+      "max": 150
+    },
+      {
+        "name": "物理",
+        "max": 100
+      },
+    {
+      "name": "化学",
+      "max": 100
+    },
+    {
+      "name": "生物",
+      "max": 100
+    }
+    ]
+  },
+  "pie": [
+    {
+      "id": "1",
+      "title": "年级平均",
+      "belowscore": "76.5",
+      "score": "82",
+      "subject": "语文",
+      "occupy": "85",
+      "surplus": "15",
+      "below_title": "全区平均",
+      "icon_type": "ios-arrow-round-up",
+      "icon_color": "icon_top",
+      "color": "#1cd0a1",
+      "state": 1
+    },
+    {
+
+      "id": "2",
+      "title": "年级平均",
+      "score": "83.4",
+      "subject": "数学",
+      "occupy": "70",
+      "surplus": "30",
+      "below_title": "全区平均",
+      "belowscore": "71.6",
+      "icon_type": "ios-arrow-round-down",
+      "icon_color": "icon_down",
+      "color": "#FDD889",
+      "state": 0
+    },
+    {
+
+      "id": "3",
+      "title": "年级平均",
+      "score": "75.5",
+      "subject": "英语",
+      "occupy": "65",
+      "surplus": "35",
+      "below_title": "全区平均",
+      "belowscore": "79",
+      "icon_type": "ios-arrow-round-up",
+      "icon_color": "icon_top",
+      "color": "#FDD889",
+      "state": 1
+    },
+    {
+
+      "id": "4",
+      "title": "年级平均",
+      "score": "68.3",
+      "subject": "物理",
+      "occupy": "60",
+      "surplus": "40",
+      "below_title": "全区平均",
+      "belowscore": "80.5",
+      "icon_type": "ios-arrow-round-down",
+      "icon_color": "icon_down",
+      "color": "#ff6b6b",
+      "state": 0
+    },
+    {
+
+      "id": "5",
+      "title": "年级平均",
+      "score": "72.8",
+      "subject": "化学",
+      "occupy": "60",
+      "surplus": "40",
+      "below_title": "全区平均",
+      "belowscore": "83.4",
+      "icon_type": "ios-arrow-round-down",
+      "icon_color": "icon_down",
+      "color": "#ff6b6b",
+      "state": 1
+    },
+    {
+
+      "id": "6",
+      "title": "年级平均",
+      "score": "79",
+      "subject": "生物",
+      "occupy": "85",
+      "surplus": "15",
+      "below_title": "全区平均",
+      "belowscore": "76.7",
+      "icon_type": "ios-arrow-round-up",
+      "icon_color": "icon_top",
+      "color": "#FDD889",
+      "state": 0
+    }
+  ],
+  "examtype": [
+    {
+      "value": "ceyan",
+      "label": "测验"
+    },
+    {
+      "value": "yuekao",
+      "label": "月考"
+    },
+    {
+      "value": "zhoukao",
+      "label": "周考"
+    },
+    {
+      "value": "nianjikao",
+      "label": "年级考"
+    },
+    {
+      "value": "liankao",
+      "label": "区域联考"
+    },
+    {
+      "value": "qimo",
+      "label": "期末"
+    }
+  ],
+  "linechart": {
+    "model": true,
+    "obj_name": [ "高一.一班", "高一.二班", "高一.三班", "高一.四班", "高一.五班" ],
+    "obj_data": [ "2019第一次区级联考", "2019第二次区级联考", "2019第三次区级联考", "2019第四次区级联考", "2019第五次区级联考" ],
+    "obj_series": [
+      {
+        "name": "区域所有",
+        "data": [ "240", "260", "270", "220", "258" ]
+      },
+      {
+        "name": "高三.一班",
+        "data": [ "210", "280", "260", "290", "288" ]
+      },
+      {
+        "name": "高二.二班",
+        "data": [ "225", "240", "280", "275", "268" ]
+      },
+      {
+        "name": "高二.三班",
+        "data": [ "200", "230", "240", "230", "210" ]
+      },
+      {
+        "name": "高二.四班",
+        "data": [ "215", "280", "270", "215", "220" ]
+      },
+      {
+        "name": "高二.五班",
+        "data": [ "228", "235", "248", "215", "240" ]
+      }
+    ],
+    "start_color": "rgba(255,48,48,1)",
+    "end_color": "rgba(255,0,0,0.5)"
+  }
+}

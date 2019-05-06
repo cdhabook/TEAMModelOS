@@ -1,0 +1,310 @@
+﻿{
+  "grade": "1",
+  "value": "gaozhong",
+  "label": "高中",
+  "term": [
+      {
+      "value": "2017-2018",
+      "label": "2017年-2018年",
+      "children": [
+        {
+          "value": "shang",
+          "label": "上学期"
+        },
+        {
+          "value": "xia",
+          "label": "下学期"
+        }
+      ]
+    },
+    {
+      "value": "2018-2019",
+      "label": "2018年-2019年",
+      "children": [
+        {
+          "value": "shang",
+          "label": "上学期"
+        },
+        {
+          "value": "xia",
+          "label": "下学期"
+        }
+      ]
+    }
+  ],
+  "selectcontrast": [
+    {
+      "value": "1",
+      "label": "任教班 vs. 校平均"
+    }
+  ],
+  "exam": [
+    {
+      "page": "1",
+      "returnnum": "6",
+      "data": [
+        {
+          "id": "1",
+          "title": "2019年第6次考试学情诊断",
+          "type": "校考",
+          "time": "2018-11-05",
+          "typename": "校级联考",
+          "num": "1563"
+        },
+        {
+          "id": "2",
+          "title": "2019年第5次考试学情诊断",
+          "type": "校考",
+          "time": "2018-11-05",
+          "typename": "校级联考",
+          "num": "1563"
+        },
+        {
+          "id": "3",
+          "title": "2019年第4次考试学情诊断",
+          "type": "校考",
+          "time": "2018-10-05",
+          "typename": "校级联考",
+          "num": "1563"
+        },
+        {
+          "id": "4",
+          "title": "2019年第3次考试学情诊断",
+          "type": "校考",
+          "time": "2018-10-05",
+          "typename": "校级联考",
+          "num": "1563"
+        },
+        {
+          "id": "5",
+          "title": "2019年第2次考试学情诊断",
+          "type": "测试",
+          "time": "2018-10-05",
+          "typename": "测验",
+          "num": "1563"
+        },
+        {
+          "id": "6",
+          "title": "2019年第1次考试学情诊断",
+          "type": "校考",
+          "time": "2018-10-05",
+          "typename": "校级联考",
+          "num": "1563"
+        }
+      ]
+    }
+  ],
+  "base": [
+    {
+      "id": "1",
+      "title": "本次统计学生数",
+      "num": "850",
+      "total": "全校统计学生数:850",
+      "areadata": "区域统计学生数:1700"
+    },
+    {
+      "id": "4",
+      "title": "任教平均得分",
+      "num": "72",
+      "total": "全校平均得分:76",
+      "areadata": "区域平均得分:74"
+    },
+    {
+      "id": "5",
+      "title": "任教最高总分",
+      "num": "96",
+      "total": "全校最高分:96",
+      "areadata": "区域最高分:96"
+    },
+    {
+      "id": "6",
+      "title": "任教最低总分",
+      "num": "50",
+      "total": "全校最低分:43",
+      "areadata": "区域最低分:43"
+    }
+  ],
+  "barecharts":{
+  "mode": false,
+  "titlename": "各班平均分数排名",
+  "titledata": [ "语文", "标准差" ],
+  "object_name": [ "全区所有","全校所有","任课班","高一.一班", "高一.二班", "高一.三班", "高一.四班", "高一.五班", "高一.六班", "高一.七班" ],
+  "one_data": {
+    "name": "语文",
+    "data": [ "78","69","76","68", "90", "65", "73", "78", "92", "75" ]
+  },
+  "two_data": {
+    "name": "null",
+    "data": []
+  },
+  "three_data": {
+    "name": "null",
+    "data": []
+  },
+  "four_data": {
+    "name": "null",
+    "data": []
+  },
+  "five_data": {
+    "name": "null",
+    "data": []
+  },
+  "six_data": {
+    "name": "null",
+    "data": []
+  },
+  "last_data": {
+    "name": "标准差",
+    "data": [ "75", "80", "73", "73", "75", "75", "75", "75", "75", "75" ]
+  }
+},
+  "annulus": {
+    "primarycolor": [ "#4169E1", "#00FFFF", "#F4A460" ],
+    "title": [ "本区及格率", "本校及格率", "任教班及格率" ],
+    "areadata": {
+      "dataname": "区域占比",
+      "occupydata": "64",
+      "remaindata": "36",
+      "subheadtitle": "本区及格率"
+    },
+    "schooldata": {
+      "dataname": "学校占比",
+      "occupydata": "72",
+      "remaindata": "28",
+      "subheadtitle": "本校及格率"
+    },
+    "teachingdata": {
+      "dataname": "任教班占比",
+      "occupydata": "85",
+      "remaindata": "15",
+      "subheadtitle": "任教班及格率"
+    }
+  },
+  "accuracyPR": {
+    "accuracydata": [
+      {
+        "id": "1",
+        "idname": "pie_one",
+        "echartstitle": "任教班级答对率",
+        "titlenum": "78",
+        "occupy": "78",
+        "residue": "22",
+        "data_name": "任教班级答对占比",
+        "high_accuracy": "66",
+        "low_accuracy": "35"
+      },
+      {
+        "id": "2",
+        "idname": "pie_two",
+        "echartstitle": "校级答对率",
+        "titlenum": "75",
+        "occupy": "75",
+        "residue": "25",
+        "high_accuracy": "70",
+        "low_accuracy": "42"
+      },
+      {
+        "id": "3",
+        "idname": "pie_three",
+        "echartstitle": "区级答对率",
+        "titlenum": "63",
+        "occupy": "63",
+        "residue": "37",
+        "high_accuracy": "67",
+        "low_accuracy": "23"
+      }
+    ],
+    "percentdata": [
+      {
+        "id": "4",
+        "idname": "pr_one",
+        "echartstitle": "任教班级PR值",
+        "titlenum": "75",
+        "occupy": "75",
+        "residue": "25",
+        "icon_type": "ios-arrow-round-up",
+        "icon_color": "icon_top"
+      },
+      {
+        "id": "5",
+        "idname": "pr_two",
+        "echartstitle": "校级排名PR值",
+        "titlenum": "68",
+        "occupy": "68",
+        "residue": "32",
+        "icon_type": "ios-arrow-round-down",
+        "icon_color": "icon_down"
+      },
+      {
+        "id": "6",
+        "idname": "pr_three",
+        "echartstitle": "区级排名PR值",
+        "titlenum": "83",
+        "occupy": "83",
+        "residue": "17",
+        "icon_type": "ios-arrow-round-up",
+        "icon_color": "icon_down"
+      }
+    ]
+  },
+  "examtype": [
+    {
+      "value": "ceyan",
+      "label": "测验"
+    },
+    {
+      "value": "yuekao",
+      "label": "月考"
+    },
+    {
+      "value": "zhoukao",
+      "label": "周考"
+    },
+    {
+      "value": "nianjikao",
+      "label": "年级考"
+    },
+    {
+      "value": "liankao",
+      "label": "区域联考"
+    },
+    {
+      "value": "qimo",
+      "label": "期末"
+    }
+  ],
+  "linechart":{
+  "model": true,
+    "obj_name": [ "高一.一班", "高一.二班", "高一.三班", "高一.四班", "高一.五班" ],
+  "obj_data": [ "2019第一次校考", "2019第二次校考", "2019第三次校考", "2019第四次校考", "2019第五次校考" ],
+    "obj_series": [
+      {
+        "name": "校内所有",
+        "data": [ "435", "430", "440", "452", "468" ]
+      },
+      {
+        "name": "高一.一班",
+        "data": [ "430", "460", "460", "480", "460" ]
+      },
+      {
+        "name": "高一.二班",
+        "data": [ "440", "450", "480", "430", "420" ]
+      },
+      {
+        "name": "高一.三班",
+        "data": [ "470", "410", "440", "430", "410" ]
+      },
+      {
+        "name": "高一.四班",
+        "data": [ "430", "450", "430", "410", "420" ]
+      },
+      {
+        "name": "高一.五班",
+        "data": [ "428", "438", "460", "440", "420" ]
+      }
+    ],
+  "start_color": "rgba(0,206,209,0.6)",
+  "middle_color": "rgba(72,209,204,0.3)",
+  "end_color": "rgba(64,224,208,0.1)"
+}
+}

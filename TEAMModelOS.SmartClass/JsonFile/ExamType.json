@@ -1,0 +1,35 @@
+﻿[
+  {
+    "value": "ceyan",
+    "label": "测验"
+  },
+  {
+    "value": "yuekao",
+    "label": "月考"
+  },
+  {
+    "value": "zhoukao",
+    "label": "周考"
+  },
+  {
+    "value": "nianjikao",
+    "label": "年级考"
+  },
+  {
+    "value": "qimo",
+    "label": "期末"
+  },
+  {
+    "value": "liankao",
+    "label": "区域联考"
+  },
+  {
+    "value": "zhenduan",
+    "label": "诊断考"
+  },
+
+  {
+    "value": "moni",
+    "label": "模拟考"
+  }
+]

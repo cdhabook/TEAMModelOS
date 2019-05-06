@@ -1,0 +1,4827 @@
+[
+  {
+    "pointId": "21008",
+    "pointName": "语文百科",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "21026",
+        "pointName": "中国近现代著名作品",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "26359",
+            "pointName": "《朝花夕拾》",
+            "pointPid": "21026"
+          },
+          {
+            "pointId": "26360",
+            "pointName": "《繁星·春水》",
+            "pointPid": "21026"
+          },
+          {
+            "pointId": "26361",
+            "pointName": "《城南旧事》",
+            "pointPid": "21026"
+          },
+          {
+            "pointId": "26363",
+            "pointName": "《三毛流浪记》",
+            "pointPid": "21026"
+          },
+          {
+            "pointId": "26377",
+            "pointName": "中国近现代作品",
+            "pointPid": "21026"
+          },
+          {
+            "pointId": "26378",
+            "pointName": "中外经典儿童文学作品",
+            "pointPid": "21026"
+          },
+          {
+            "pointId": "26394",
+            "pointName": "《呐喊》",
+            "pointPid": "21026"
+          },
+          {
+            "pointId": "26395",
+            "pointName": "《稻草人》",
+            "pointPid": "21026"
+          },
+          {
+            "pointId": "26396",
+            "pointName": "《子夜》",
+            "pointPid": "21026"
+          },
+          {
+            "pointId": "26397",
+            "pointName": "《家》",
+            "pointPid": "21026"
+          }
+        ]
+      },
+      {
+        "pointId": "21029",
+        "pointName": "文化常识",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "21374",
+            "pointName": "中国古代著名“圣”人",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21375",
+            "pointName": "中国的行业祖师",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21376",
+            "pointName": "中国前四史",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21377",
+            "pointName": "中国文房四宝",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21378",
+            "pointName": "中国古代四大书院",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21379",
+            "pointName": "我国四大古典戏剧",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21380",
+            "pointName": "我国四大民间故事",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21381",
+            "pointName": "我国四大名绣",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21382",
+            "pointName": "我国四大国粹",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21383",
+            "pointName": "我国主要剧种",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21384",
+            "pointName": "我国京剧脸谱",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21385",
+            "pointName": "唐代诗人雅号",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21386",
+            "pointName": "古代诗人作家的并称",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21387",
+            "pointName": "古代主要文学流派",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21388",
+            "pointName": "古诗名句中点字成金的事例",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21389",
+            "pointName": "常用谦辞、敬辞和礼貌用语",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21390",
+            "pointName": "古代表示年龄的特定称谓",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21391",
+            "pointName": "诗词曲常见意象",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21392",
+            "pointName": "十二生肖",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21393",
+            "pointName": "中国文学之最",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21394",
+            "pointName": "中国传统节日",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21395",
+            "pointName": "日常的几个模糊时间",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21396",
+            "pointName": "表示“死亡”的委婉表达",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21397",
+            "pointName": "人体各部位的比喻意义",
+            "pointPid": "21029"
+          },
+          {
+            "pointId": "21398",
+            "pointName": "有趣的别称",
+            "pointPid": "21029"
+          }
+        ]
+      },
+      {
+        "pointId": "21031",
+        "pointName": "历史知识",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "21399",
+            "pointName": "世界四大文明古国",
+            "pointPid": "21031"
+          },
+          {
+            "pointId": "21400",
+            "pointName": "世界十大古文明",
+            "pointPid": "21031"
+          },
+          {
+            "pointId": "21401",
+            "pointName": "古代中国别称",
+            "pointPid": "21031"
+          },
+          {
+            "pointId": "21402",
+            "pointName": "春秋五霸",
+            "pointPid": "21031"
+          },
+          {
+            "pointId": "21403",
+            "pointName": "战国七雄",
+            "pointPid": "21031"
+          },
+          {
+            "pointId": "21404",
+            "pointName": "六部",
+            "pointPid": "21031"
+          },
+          {
+            "pointId": "21405",
+            "pointName": "古代丝绸之路",
+            "pointPid": "21031"
+          },
+          {
+            "pointId": "21406",
+            "pointName": "中国古代四大发明",
+            "pointPid": "21031"
+          },
+          {
+            "pointId": "21407",
+            "pointName": "中国八大古都",
+            "pointPid": "21031"
+          },
+          {
+            "pointId": "21408",
+            "pointName": "中国历史上主要朝代顺序歌",
+            "pointPid": "21031"
+          }
+        ]
+      },
+      {
+        "pointId": "21032",
+        "pointName": "自然地理常识",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "21409",
+            "pointName": "世界八大奇迹",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21410",
+            "pointName": "世界三大瀑布",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21411",
+            "pointName": "世界五大宫殿",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21412",
+            "pointName": "七大洲与四大洋",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21413",
+            "pointName": "中国五湖四海",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21414",
+            "pointName": "长江、黄河",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21415",
+            "pointName": "中国五岳名山",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21416",
+            "pointName": "中国五大名泉",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21417",
+            "pointName": "中国佛教名山",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21418",
+            "pointName": "中国五大咸水湖",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21419",
+            "pointName": "中国五大淡水湖",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21420",
+            "pointName": "中国四大高原",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21421",
+            "pointName": "我国的盆地之最",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21422",
+            "pointName": "我国四大油田",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21423",
+            "pointName": "我国三大平原",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21424",
+            "pointName": "我国四大牧区",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21425",
+            "pointName": "我国四大古镇",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21426",
+            "pointName": "我国四大名窟",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21427",
+            "pointName": "我国四大名桥",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21428",
+            "pointName": "我国十大名胜古迹",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21429",
+            "pointName": "我国十大名茶",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21430",
+            "pointName": "我国的世界之最",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21431",
+            "pointName": "世界部分国家别称",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21432",
+            "pointName": "世界名城美称",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21433",
+            "pointName": "中国部分城市别称",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21434",
+            "pointName": "世界部分国家的国花",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21435",
+            "pointName": "各月具有代表性的花",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21436",
+            "pointName": "部分花的含义",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21437",
+            "pointName": "二十四节气歌",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21438",
+            "pointName": "气象灾害",
+            "pointPid": "21032"
+          },
+          {
+            "pointId": "21439",
+            "pointName": "四季风的别称",
+            "pointPid": "21032"
+          }
+        ]
+      },
+      {
+        "pointId": "21056",
+        "pointName": "小学生必背古诗75首（课标指定）",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "26408",
+            "pointName": "1 江南（江南可采莲） 汉乐府",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26409",
+            "pointName": "2 长歌行（青青园中葵） 汉乐府",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26410",
+            "pointName": "3 敕勒歌（敕勒川） 北朝名歌",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26411",
+            "pointName": "4 咏（鹅鹅鹅） 骆宾王",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26412",
+            "pointName": "5 风（解落三秋叶） 李峤",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26413",
+            "pointName": "6 咏柳（碧玉妆成一树高） 贺知章",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26414",
+            "pointName": "7 回乡偶书（少小离家老大回） 贺知章",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26415",
+            "pointName": "8 凉州词（黄河远上白云间） 王之涣",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26416",
+            "pointName": "9 登鹳雀楼（白日依山尽） 王之涣",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26417",
+            "pointName": "10 春晓（春眠不觉晓） 孟浩然",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26418",
+            "pointName": "11 凉州词（葡萄美酒夜光杯）  王翰",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26419",
+            "pointName": "12 出塞 (秦时明月汉时关) 王昌龄",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26420",
+            "pointName": "13 芙蓉楼送辛渐(寒雨连江夜入吴) 王昌龄",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26421",
+            "pointName": "14 鹿柴(空山不见人) 王维",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26422",
+            "pointName": "15 送元二使安西(渭城朝雨浥轻尘)  王维",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26423",
+            "pointName": "16 九月九日忆山东兄弟(独在异乡为异客) 王维",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26424",
+            "pointName": "17 静夜思（床前明月光）李白",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26425",
+            "pointName": "18 古朗月行（小时不识月） 李白",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26426",
+            "pointName": "19 望庐山瀑布（日照香炉生紫烟）李白",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26427",
+            "pointName": "20 赠汪伦（李白乘舟将欲行）李白",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26428",
+            "pointName": "21 黄鹤楼送孟浩然之广陵（故人西辞黄鹤楼） 李白",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26429",
+            "pointName": "22 早发白帝城（朝辞白帝彩云间）李白",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26430",
+            "pointName": "23 望天门山（天门中断楚江开）李白",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26431",
+            "pointName": "24 别董大（千里黄云白日曛）高适",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26432",
+            "pointName": "25 绝句（两个黄鹂鸣翠柳）杜甫",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26433",
+            "pointName": "26 春夜喜雨（好雨知时节）杜甫",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26434",
+            "pointName": "27 绝句（迟日江山丽）杜甫",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26435",
+            "pointName": "28 江畔独步寻花（黄师塔前江水东）杜甫",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26436",
+            "pointName": "29 枫桥夜泊（月落乌啼霜满天）张继",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26437",
+            "pointName": "30 滁州西涧（独怜幽草涧边生）韦应物",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26438",
+            "pointName": "31 游子吟（慈母手中线）孟郊",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26439",
+            "pointName": "32 早春呈水部张十八员外（天街小雨润如酥）韩愈",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26440",
+            "pointName": "33 渔歌子（西塞山前白鹭飞）张志和",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26441",
+            "pointName": "34 塞下曲（月黑雁飞高）卢纶",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26442",
+            "pointName": "35 望洞庭（湖光秋月两相和）刘禹锡",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26443",
+            "pointName": "36 浪淘沙（九曲黄河万里沙）刘禹锡",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26444",
+            "pointName": "37 赋得古原草送别（离离原上草）白居易",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26445",
+            "pointName": "38 池上（小娃撑小艇）白居易",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26446",
+            "pointName": "39 忆江南（江南好）白居易",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26447",
+            "pointName": "40 小儿垂钓（蓬头稚子学垂纶）胡令能",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26448",
+            "pointName": "41 悯农（锄禾日当午） 李绅",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26449",
+            "pointName": "42 悯农（春种一粒粟） 李绅",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26450",
+            "pointName": "43 江雪（千山鸟飞绝）柳宗元",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26451",
+            "pointName": "44 寻隐者不遇（松下问童子）贾岛",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26452",
+            "pointName": "45 山行（远上寒山石径斜）杜牧",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26453",
+            "pointName": "46 清明（清明时节雨纷纷）杜牧",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26454",
+            "pointName": "47 江南春（千里莺啼绿映红）杜牧",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26455",
+            "pointName": "48 蜂（不论平地与山尖）罗隐",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26456",
+            "pointName": "49 江上渔者（江上往来人）范仲淹",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26457",
+            "pointName": "50 元日（爆竹声中一岁除）王安石",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26458",
+            "pointName": "51 泊船瓜洲（京口瓜洲一水间）王安石",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26459",
+            "pointName": "52 书湖阴先生壁（茅檐长扫净无苔） 王安石",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26460",
+            "pointName": "53 六月二十七日望湖楼醉书（黑云翻墨未遮山） 苏轼",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26461",
+            "pointName": "54 饮湖上初晴后雨（水光潋滟晴方好） 苏轼",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26462",
+            "pointName": "55 惠崇春江晚景（竹外桃花三两枝） 苏轼",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26463",
+            "pointName": "56 题西林壁（横看成岭侧成峰） 苏轼",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26464",
+            "pointName": "57 夏日绝句（生当作人杰） 李清照",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26465",
+            "pointName": "58 三衢道中（梅子黄时日日晴）曾几",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26466",
+            "pointName": "59 示儿（死去元知万事空） 陆游",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26467",
+            "pointName": "60 秋夜将晓出篱门迎凉有感（三万里河东入海） 陆游",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26468",
+            "pointName": "61 四时田园杂兴（昼出耘田夜绩麻）范成大",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26469",
+            "pointName": "62 四时田园杂兴（梅子金黄杏子肥）范成大",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26470",
+            "pointName": "63 小池（泉眼无声惜细流）杨万里",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26471",
+            "pointName": "64 晓出净慈寺送林子方（毕竟西湖六月中） 杨万里",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26472",
+            "pointName": "65 春日（胜日寻芳泗水滨）朱熹",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26473",
+            "pointName": "66 观书有感（半亩方塘一鉴开） 朱熹",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26474",
+            "pointName": "67 题临安邸（山外青山楼外楼）林升",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26475",
+            "pointName": "68 游园不值（应怜屐齿印苍苔）叶绍翁",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26476",
+            "pointName": "69 乡村四月（绿遍山原白满川）翁卷",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26477",
+            "pointName": "70 墨梅（我家洗砚池头树） 王冕",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26478",
+            "pointName": "71 石灰吟（千锤万凿出深山）于谦",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26479",
+            "pointName": "72 竹石（咬定青山不放松） 郑燮",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26480",
+            "pointName": "73 所见（牧童骑黄牛） 袁枚",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26481",
+            "pointName": "74 村居（草长莺飞二月天） 高鼎",
+            "pointPid": "21056"
+          },
+          {
+            "pointId": "26482",
+            "pointName": "75 己亥杂诗（九州生气恃风雷）龚自珍",
+            "pointPid": "21056"
+          }
+        ]
+      },
+      {
+        "pointId": "21068",
+        "pointName": "中国古代作家简介",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "26483",
+            "pointName": "孔子",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26484",
+            "pointName": "孟子",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26485",
+            "pointName": "庄子",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26486",
+            "pointName": "屈原",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26487",
+            "pointName": "司马迁",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26488",
+            "pointName": "曹植",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26489",
+            "pointName": "陶渊明",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26490",
+            "pointName": "王勃",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26491",
+            "pointName": "贺知章",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26492",
+            "pointName": "孟浩然",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26493",
+            "pointName": "王维",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26494",
+            "pointName": "李白",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26495",
+            "pointName": "杜甫",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26496",
+            "pointName": "孟郊",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26497",
+            "pointName": "韩愈",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26498",
+            "pointName": "刘禹锡",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26499",
+            "pointName": "白居易",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26500",
+            "pointName": "柳宗元",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26501",
+            "pointName": "杜牧",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26502",
+            "pointName": "李商隐",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26503",
+            "pointName": "范仲淹",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26504",
+            "pointName": "王安石",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26505",
+            "pointName": "苏轼",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26506",
+            "pointName": "李清照",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26507",
+            "pointName": "陆游",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26508",
+            "pointName": "辛弃疾",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26509",
+            "pointName": "施耐庵",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26510",
+            "pointName": "罗贯中",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26511",
+            "pointName": "吴承恩",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26512",
+            "pointName": "蒲松龄",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26513",
+            "pointName": "纳兰性德",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26514",
+            "pointName": "曹雪芹",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26515",
+            "pointName": "吕不韦",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26516",
+            "pointName": "曹操",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26517",
+            "pointName": "骆宾王",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26518",
+            "pointName": "陈子昂",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26519",
+            "pointName": "王之涣",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26520",
+            "pointName": "王昌龄",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26521",
+            "pointName": "高适",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26522",
+            "pointName": "岑参",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26523",
+            "pointName": "张志和",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26524",
+            "pointName": "李绅",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26525",
+            "pointName": "贾岛",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26526",
+            "pointName": "李贺",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26527",
+            "pointName": "李煜",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26528",
+            "pointName": "柳永",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26529",
+            "pointName": "晏殊",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26530",
+            "pointName": "欧阳修",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26531",
+            "pointName": "司马光",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26532",
+            "pointName": "黄庭坚",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26533",
+            "pointName": "范成大",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26534",
+            "pointName": "朱熹",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26535",
+            "pointName": "杨万里",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26536",
+            "pointName": "叶绍翁",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26537",
+            "pointName": "文天祥",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26538",
+            "pointName": "马致远",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26539",
+            "pointName": "于谦",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26540",
+            "pointName": "袁枚",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26541",
+            "pointName": "郑燮",
+            "pointPid": "21068"
+          },
+          {
+            "pointId": "26542",
+            "pointName": "龚自珍",
+            "pointPid": "21068"
+          }
+        ]
+      },
+      {
+        "pointId": "21069",
+        "pointName": "中国现当代作家简介",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "26543",
+            "pointName": "鲁迅",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26544",
+            "pointName": "郭沫若",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26545",
+            "pointName": "毛泽东",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26546",
+            "pointName": "叶圣陶",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26547",
+            "pointName": "茅盾",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26548",
+            "pointName": "朱自清",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26549",
+            "pointName": "老舍",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26550",
+            "pointName": "冰心",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26551",
+            "pointName": "巴金",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26552",
+            "pointName": "林海音",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26553",
+            "pointName": "魏巍",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26554",
+            "pointName": "冯骥才",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26555",
+            "pointName": "毕淑敏",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26556",
+            "pointName": "贾平凹",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26557",
+            "pointName": "林清玄",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26558",
+            "pointName": "莫言",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26559",
+            "pointName": "田汉",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26560",
+            "pointName": "郑振铎",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26561",
+            "pointName": "丰子恺",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26562",
+            "pointName": "闻一多",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26563",
+            "pointName": "季羡林",
+            "pointPid": "21069"
+          },
+          {
+            "pointId": "26564",
+            "pointName": "梁晓声",
+            "pointPid": "21069"
+          }
+        ]
+      },
+      {
+        "pointId": "21070",
+        "pointName": "外国古今作家简介",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "26565",
+            "pointName": "但丁",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26566",
+            "pointName": "莎士比亚",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26567",
+            "pointName": "巴尔扎克",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26568",
+            "pointName": "雨果",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26569",
+            "pointName": "安徒生",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26570",
+            "pointName": "法布尔",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26571",
+            "pointName": "列夫·托尔斯泰",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26572",
+            "pointName": "马克·吐温",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26573",
+            "pointName": "莫泊桑",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26574",
+            "pointName": "泰戈尔",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26575",
+            "pointName": "高尔基",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26576",
+            "pointName": "海伦·凯勒",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26577",
+            "pointName": "海明威",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26578",
+            "pointName": "荷马",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26579",
+            "pointName": "伊索",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26580",
+            "pointName": "塞万提斯",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26581",
+            "pointName": "笛福",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26582",
+            "pointName": "歌德",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26583",
+            "pointName": "拜伦",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26584",
+            "pointName": "屠格涅夫",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26585",
+            "pointName": "米亚契斯",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26586",
+            "pointName": "王尔德",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26587",
+            "pointName": "契诃夫",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26588",
+            "pointName": "欧·亨利",
+            "pointPid": "21070"
+          },
+          {
+            "pointId": "26589",
+            "pointName": "奥斯特洛夫斯基",
+            "pointPid": "21070"
+          }
+        ]
+      },
+      {
+        "pointId": "26121",
+        "pointName": "妙语天地",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "21034",
+            "pointName": "名言警句",
+            "pointPid": "26121"
+          },
+          {
+            "pointId": "21035",
+            "pointName": "谚语",
+            "pointPid": "26121"
+          },
+          {
+            "pointId": "21036",
+            "pointName": "俗语",
+            "pointPid": "26121"
+          },
+          {
+            "pointId": "21037",
+            "pointName": "歇后语",
+            "pointPid": "26121"
+          },
+          {
+            "pointId": "21038",
+            "pointName": "对联",
+            "pointPid": "26121"
+          }
+        ]
+      },
+      {
+        "pointId": "26130",
+        "pointName": "中国古代著名作品",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "26349",
+            "pointName": "《水浒传》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26350",
+            "pointName": "《三国演义》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26351",
+            "pointName": "《西游记》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26352",
+            "pointName": "《红楼梦》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26356",
+            "pointName": "“四书”“五经”",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26357",
+            "pointName": "《论语》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26358",
+            "pointName": "《史记》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26362",
+            "pointName": "《聊斋志异》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26379",
+            "pointName": "《诗经》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26380",
+            "pointName": "《道德经》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26381",
+            "pointName": "《左传》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26382",
+            "pointName": "《战国策》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26383",
+            "pointName": "《吕氏春秋》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26384",
+            "pointName": "《晏子春秋》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26385",
+            "pointName": "《山海经》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26386",
+            "pointName": "《古诗十九首》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26387",
+            "pointName": "《世说新语》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26388",
+            "pointName": "《搜神记》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26389",
+            "pointName": "《资治通鉴》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26390",
+            "pointName": "《永乐大典》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26391",
+            "pointName": "《四库全书》",
+            "pointPid": "26130"
+          },
+          {
+            "pointId": "26392",
+            "pointName": "中国古代作品",
+            "pointPid": "26130"
+          }
+        ]
+      },
+      {
+        "pointId": "26393",
+        "pointName": "外国古今著名作品",
+        "pointPid": "21008",
+        "childPoint": [
+          {
+            "pointId": "26364",
+            "pointName": "《鲁滨孙漂流记》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26365",
+            "pointName": "《昆虫记》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26366",
+            "pointName": "《爱的教育》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26367",
+            "pointName": "《钢铁是怎样炼成的》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26368",
+            "pointName": "《童年》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26369",
+            "pointName": "《格列佛游记》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26370",
+            "pointName": "《汤姆·索亚历险记》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26371",
+            "pointName": "《汤姆叔叔的小屋》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26372",
+            "pointName": "《伊索寓言》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26373",
+            "pointName": "《安徒生童话》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26374",
+            "pointName": "《假如给我三天的光明》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26375",
+            "pointName": "《老人与海》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26376",
+            "pointName": "《窗边的小豆豆》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26398",
+            "pointName": "《一千零一夜》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26399",
+            "pointName": "《堂吉诃德》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26400",
+            "pointName": "《巴黎圣母院》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26401",
+            "pointName": "《格林童话》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26402",
+            "pointName": "《麦琪的礼物》",
+            "pointPid": "26393"
+          },
+          {
+            "pointId": "26403",
+            "pointName": "外国文学作品",
+            "pointPid": "26393"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "21039",
+    "pointName": "习作表达",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "21040",
+        "pointName": "作文技法",
+        "pointPid": "21039",
+        "childPoint": [
+          {
+            "pointId": "21077",
+            "pointName": "审题",
+            "pointPid": "21040"
+          },
+          {
+            "pointId": "21078",
+            "pointName": "立意",
+            "pointPid": "21040"
+          },
+          {
+            "pointId": "21079",
+            "pointName": "拟题",
+            "pointPid": "21040"
+          },
+          {
+            "pointId": "21080",
+            "pointName": "选材",
+            "pointPid": "21040"
+          },
+          {
+            "pointId": "21081",
+            "pointName": "构思",
+            "pointPid": "21040"
+          },
+          {
+            "pointId": "21082",
+            "pointName": "开头",
+            "pointPid": "21040"
+          },
+          {
+            "pointId": "21083",
+            "pointName": "结尾",
+            "pointPid": "21040"
+          },
+          {
+            "pointId": "21084",
+            "pointName": "过渡",
+            "pointPid": "21040"
+          },
+          {
+            "pointId": "21085",
+            "pointName": "照应",
+            "pointPid": "21040"
+          },
+          {
+            "pointId": "21086",
+            "pointName": "修改作文",
+            "pointPid": "21040"
+          }
+        ]
+      },
+      {
+        "pointId": "21041",
+        "pointName": "常见作文类型",
+        "pointPid": "21039",
+        "childPoint": [
+          {
+            "pointId": "21072",
+            "pointName": "命题作文",
+            "pointPid": "21041"
+          },
+          {
+            "pointId": "21073",
+            "pointName": "半命题作文",
+            "pointPid": "21041"
+          },
+          {
+            "pointId": "21074",
+            "pointName": "材料作文",
+            "pointPid": "21041"
+          },
+          {
+            "pointId": "21075",
+            "pointName": "话题作文",
+            "pointPid": "21041"
+          },
+          {
+            "pointId": "21076",
+            "pointName": "小作文",
+            "pointPid": "21041"
+          }
+        ]
+      },
+      {
+        "pointId": "21042",
+        "pointName": "常见应用文写作",
+        "pointPid": "21039",
+        "childPoint": [
+          {
+            "pointId": "21471",
+            "pointName": "读书笔记",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "21472",
+            "pointName": "通知",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "21473",
+            "pointName": "请假条",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "21474",
+            "pointName": "留言条",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "21475",
+            "pointName": "日记",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "21476",
+            "pointName": "倡议书",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "21477",
+            "pointName": "演讲稿",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "21478",
+            "pointName": "读后感（观后感）",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "21479",
+            "pointName": "表扬稿",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "21480",
+            "pointName": "启事",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "21481",
+            "pointName": "借条、收条和领条",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "25137",
+            "pointName": "书信",
+            "pointPid": "21042"
+          },
+          {
+            "pointId": "26407",
+            "pointName": "短信",
+            "pointPid": "21042"
+          }
+        ]
+      },
+      {
+        "pointId": "21058",
+        "pointName": "常见作文体裁写作",
+        "pointPid": "21039",
+        "childPoint": [
+          {
+            "pointId": "21059",
+            "pointName": "记叙文写作（写人、记事、写景、状物）",
+            "pointPid": "21058"
+          },
+          {
+            "pointId": "21060",
+            "pointName": "说明文写作（观察日记）",
+            "pointPid": "21058"
+          },
+          {
+            "pointId": "21061",
+            "pointName": "片段写作（续写、扩写、缩写、改写等）",
+            "pointPid": "21058"
+          },
+          {
+            "pointId": "21062",
+            "pointName": "看图写话",
+            "pointPid": "21058"
+          },
+          {
+            "pointId": "21063",
+            "pointName": "想象类作文写作",
+            "pointPid": "21058"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "21087",
+    "pointName": "拼音汉语",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "21088",
+        "pointName": "声母",
+        "pointPid": "21087",
+        "childPoint": [
+          {
+            "pointId": "20961",
+            "pointName": "声母的发音方法",
+            "pointPid": "21088"
+          },
+          {
+            "pointId": "21106",
+            "pointName": "声母的概念",
+            "pointPid": "21088"
+          },
+          {
+            "pointId": "21107",
+            "pointName": "声母的分类",
+            "pointPid": "21088"
+          },
+          {
+            "pointId": "21108",
+            "pointName": "声母表",
+            "pointPid": "21088"
+          },
+          {
+            "pointId": "21109",
+            "pointName": "普通话声母发音部位、发音方法一览表",
+            "pointPid": "21088"
+          },
+          {
+            "pointId": "21110",
+            "pointName": "声母的发音——本音和呼读音区分",
+            "pointPid": "21088"
+          },
+          {
+            "pointId": "21111",
+            "pointName": "零声母",
+            "pointPid": "21088"
+          },
+          {
+            "pointId": "21112",
+            "pointName": "声母的写法",
+            "pointPid": "21088"
+          }
+        ]
+      },
+      {
+        "pointId": "21089",
+        "pointName": "韵母",
+        "pointPid": "21087",
+        "childPoint": [
+          {
+            "pointId": "20962",
+            "pointName": "韵母的发音方法",
+            "pointPid": "21089"
+          },
+          {
+            "pointId": "20963",
+            "pointName": "韵母的写法",
+            "pointPid": "21089"
+          },
+          {
+            "pointId": "21043",
+            "pointName": "韵母的概念",
+            "pointPid": "21089"
+          },
+          {
+            "pointId": "21044",
+            "pointName": "韵母表",
+            "pointPid": "21089"
+          },
+          {
+            "pointId": "21045",
+            "pointName": "韵母的分类",
+            "pointPid": "21089"
+          },
+          {
+            "pointId": "21046",
+            "pointName": "韵母的结构",
+            "pointPid": "21089"
+          }
+        ]
+      },
+      {
+        "pointId": "21090",
+        "pointName": "整体认读音节",
+        "pointPid": "21087",
+        "childPoint": [
+          {
+            "pointId": "21482",
+            "pointName": "整体认读音节",
+            "pointPid": "21090"
+          }
+        ]
+      },
+      {
+        "pointId": "21091",
+        "pointName": "音节拼写规则",
+        "pointPid": "21087",
+        "childPoint": [
+          {
+            "pointId": "21483",
+            "pointName": "拼音声调的分类",
+            "pointPid": "21091"
+          },
+          {
+            "pointId": "21484",
+            "pointName": "标声调位置的规则",
+            "pointPid": "21091"
+          },
+          {
+            "pointId": "21485",
+            "pointName": "单音节和音节词的拼写规则",
+            "pointPid": "21091"
+          },
+          {
+            "pointId": "21486",
+            "pointName": "隔音符号（'）的用法",
+            "pointPid": "21091"
+          },
+          {
+            "pointId": "21487",
+            "pointName": "大写字母的运用",
+            "pointPid": "21091"
+          },
+          {
+            "pointId": "21488",
+            "pointName": "轻声的概念",
+            "pointPid": "21091"
+          },
+          {
+            "pointId": "21489",
+            "pointName": "轻声使用场景",
+            "pointPid": "21091"
+          },
+          {
+            "pointId": "21490",
+            "pointName": "变调",
+            "pointPid": "21091"
+          },
+          {
+            "pointId": "21491",
+            "pointName": "儿化的概念和主要作用",
+            "pointPid": "21091"
+          },
+          {
+            "pointId": "21492",
+            "pointName": "语气词“啊”的变音",
+            "pointPid": "21091"
+          }
+        ]
+      },
+      {
+        "pointId": "21105",
+        "pointName": "字母",
+        "pointPid": "21087",
+        "childPoint": [
+          {
+            "pointId": "21510",
+            "pointName": "汉语拼音字母表",
+            "pointPid": "21105"
+          },
+          {
+            "pointId": "21511",
+            "pointName": "字母大小写笔顺",
+            "pointPid": "21105"
+          }
+        ]
+      },
+      {
+        "pointId": "26087",
+        "pointName": "拼音常见考点",
+        "pointPid": "21087",
+        "childPoint": [
+          {
+            "pointId": "26138",
+            "pointName": "字母表排序",
+            "pointPid": "26087"
+          },
+          {
+            "pointId": "26139",
+            "pointName": "根据拼音写字词",
+            "pointPid": "26087"
+          },
+          {
+            "pointId": "26140",
+            "pointName": "汉字注音（或读音）",
+            "pointPid": "26087"
+          },
+          {
+            "pointId": "26141",
+            "pointName": "声母",
+            "pointPid": "26087"
+          },
+          {
+            "pointId": "26142",
+            "pointName": "韵母",
+            "pointPid": "26087"
+          },
+          {
+            "pointId": "26143",
+            "pointName": "整体认读音节",
+            "pointPid": "26087"
+          }
+        ]
+      },
+      {
+        "pointId": "26089",
+        "pointName": "拼音方法",
+        "pointPid": "21087",
+        "childPoint": [
+          {
+            "pointId": "26144",
+            "pointName": "两拼法",
+            "pointPid": "26089"
+          },
+          {
+            "pointId": "26145",
+            "pointName": "三拼法",
+            "pointPid": "26089"
+          },
+          {
+            "pointId": "26146",
+            "pointName": "直呼音节发",
+            "pointPid": "26089"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "21092",
+    "pointName": "汉字",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "21049",
+        "pointName": "形近字辨析",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "21117",
+            "pointName": "形近字含义",
+            "pointPid": "21049"
+          },
+          {
+            "pointId": "21118",
+            "pointName": "常见形近字辨析",
+            "pointPid": "21049"
+          },
+          {
+            "pointId": "26355",
+            "pointName": "形近字辨析方法",
+            "pointPid": "21049"
+          }
+        ]
+      },
+      {
+        "pointId": "21093",
+        "pointName": "汉字的笔画笔顺",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "21493",
+            "pointName": "汉字书写",
+            "pointPid": "21093"
+          },
+          {
+            "pointId": "21494",
+            "pointName": "汉字笔画概念",
+            "pointPid": "21093"
+          },
+          {
+            "pointId": "21495",
+            "pointName": "常见汉字笔画名称表",
+            "pointPid": "21093"
+          },
+          {
+            "pointId": "21496",
+            "pointName": "汉字笔顺的概念",
+            "pointPid": "21093"
+          },
+          {
+            "pointId": "21497",
+            "pointName": "汉字笔顺的基本规则",
+            "pointPid": "21093"
+          },
+          {
+            "pointId": "21498",
+            "pointName": "汉字笔顺的特殊规则",
+            "pointPid": "21093"
+          }
+        ]
+      },
+      {
+        "pointId": "21094",
+        "pointName": "汉字的偏旁部首",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "21499",
+            "pointName": "偏旁概念",
+            "pointPid": "21094"
+          },
+          {
+            "pointId": "21500",
+            "pointName": "汉字常见偏旁名称表",
+            "pointPid": "21094"
+          },
+          {
+            "pointId": "21501",
+            "pointName": "部首概念",
+            "pointPid": "21094"
+          },
+          {
+            "pointId": "21502",
+            "pointName": "偏旁与部首的区别",
+            "pointPid": "21094"
+          }
+        ]
+      },
+      {
+        "pointId": "21095",
+        "pointName": "汉字的结构",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "21047",
+            "pointName": "合体字",
+            "pointPid": "21095"
+          },
+          {
+            "pointId": "21113",
+            "pointName": "汉字间架结构",
+            "pointPid": "21095"
+          },
+          {
+            "pointId": "21114",
+            "pointName": "独体字",
+            "pointPid": "21095"
+          }
+        ]
+      },
+      {
+        "pointId": "21096",
+        "pointName": "多义字",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "21099",
+            "pointName": "多义字含义",
+            "pointPid": "21096"
+          },
+          {
+            "pointId": "21100",
+            "pointName": "常见多义字",
+            "pointPid": "21096"
+          },
+          {
+            "pointId": "26091",
+            "pointName": "一字多义的辨析",
+            "pointPid": "21096"
+          }
+        ]
+      },
+      {
+        "pointId": "21097",
+        "pointName": "同音字辨析",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "21101",
+            "pointName": "常见同音字辨析",
+            "pointPid": "21097"
+          },
+          {
+            "pointId": "21103",
+            "pointName": "同音字含义",
+            "pointPid": "21097"
+          },
+          {
+            "pointId": "26353",
+            "pointName": "同音字辨析方法",
+            "pointPid": "21097"
+          }
+        ]
+      },
+      {
+        "pointId": "21098",
+        "pointName": "查字典",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "21503",
+            "pointName": "音序查字法",
+            "pointPid": "21098"
+          },
+          {
+            "pointId": "21504",
+            "pointName": "部首查字法",
+            "pointPid": "21098"
+          },
+          {
+            "pointId": "21505",
+            "pointName": "数笔画查字法",
+            "pointPid": "21098"
+          },
+          {
+            "pointId": "21506",
+            "pointName": "音序查字法查字的步骤",
+            "pointPid": "21098"
+          },
+          {
+            "pointId": "21507",
+            "pointName": "部首查字法查字的步骤",
+            "pointPid": "21098"
+          },
+          {
+            "pointId": "21508",
+            "pointName": "部首查字法查字规律",
+            "pointPid": "21098"
+          },
+          {
+            "pointId": "21509",
+            "pointName": "数笔画查字法查字的步骤",
+            "pointPid": "21098"
+          }
+        ]
+      },
+      {
+        "pointId": "21102",
+        "pointName": "易写错的字",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "21050",
+            "pointName": "易误写的字（括号内为错别字）",
+            "pointPid": "21102"
+          },
+          {
+            "pointId": "21119",
+            "pointName": "易写错笔顺的字",
+            "pointPid": "21102"
+          },
+          {
+            "pointId": "21120",
+            "pointName": "易混淆结构的字",
+            "pointPid": "21102"
+          }
+        ]
+      },
+      {
+        "pointId": "21104",
+        "pointName": "多音字辨析",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "21048",
+            "pointName": "常见多音字辨析",
+            "pointPid": "21104"
+          },
+          {
+            "pointId": "21115",
+            "pointName": "多音字的含义",
+            "pointPid": "21104"
+          },
+          {
+            "pointId": "26354",
+            "pointName": "多同音字辨析方法",
+            "pointPid": "21104"
+          }
+        ]
+      },
+      {
+        "pointId": "21116",
+        "pointName": "易读错的字",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "21121",
+            "pointName": "易读错的字音",
+            "pointPid": "21116"
+          },
+          {
+            "pointId": "21122",
+            "pointName": "易读错的地名",
+            "pointPid": "21116"
+          },
+          {
+            "pointId": "21123",
+            "pointName": "易读错的姓氏",
+            "pointPid": "21116"
+          },
+          {
+            "pointId": "21124",
+            "pointName": "易读错的食品及中药名称",
+            "pointPid": "21116"
+          }
+        ]
+      },
+      {
+        "pointId": "26084",
+        "pointName": "义务教育语文课程常用字表（会认写的字）",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "26085",
+            "pointName": "字表一（2500字）",
+            "pointPid": "26084"
+          },
+          {
+            "pointId": "26086",
+            "pointName": "字表二（1000字）",
+            "pointPid": "26084"
+          }
+        ]
+      },
+      {
+        "pointId": "26092",
+        "pointName": "汉字的造字法",
+        "pointPid": "21092",
+        "childPoint": [
+          {
+            "pointId": "26147",
+            "pointName": "象形",
+            "pointPid": "26092"
+          },
+          {
+            "pointId": "26148",
+            "pointName": "指事",
+            "pointPid": "26092"
+          },
+          {
+            "pointId": "26149",
+            "pointName": "形声",
+            "pointPid": "26092"
+          },
+          {
+            "pointId": "26150",
+            "pointName": "会意",
+            "pointPid": "26092"
+          },
+          {
+            "pointId": "26151",
+            "pointName": "转注",
+            "pointPid": "26092"
+          },
+          {
+            "pointId": "26152",
+            "pointName": "假借",
+            "pointPid": "26092"
+          }
+        ]
+      },
+      {
+        "pointId": "26093",
+        "pointName": "汉字的特点与演变",
+        "pointPid": "21092"
+      }
+    ]
+  },
+  {
+    "pointId": "21125",
+    "pointName": "词语",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "21051",
+        "pointName": "近义词辨析",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21052",
+            "pointName": "常见的近义词",
+            "pointPid": "21051"
+          },
+          {
+            "pointId": "21143",
+            "pointName": "近义词的含义",
+            "pointPid": "21051"
+          },
+          {
+            "pointId": "21144",
+            "pointName": "近义词的辨析方法",
+            "pointPid": "21051"
+          },
+          {
+            "pointId": "21146",
+            "pointName": "常见近义词辨析",
+            "pointPid": "21051"
+          }
+        ]
+      },
+      {
+        "pointId": "21053",
+        "pointName": "反义词辨析",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21145",
+            "pointName": "常见的反义词",
+            "pointPid": "21053"
+          },
+          {
+            "pointId": "21147",
+            "pointName": "反义词含义",
+            "pointPid": "21053"
+          },
+          {
+            "pointId": "21148",
+            "pointName": "反义词的辨析方法",
+            "pointPid": "21053"
+          },
+          {
+            "pointId": "21150",
+            "pointName": "找反义词注意事项",
+            "pointPid": "21053"
+          }
+        ]
+      },
+      {
+        "pointId": "21126",
+        "pointName": "词和词的构成",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21127",
+            "pointName": "词的含义",
+            "pointPid": "21126"
+          },
+          {
+            "pointId": "21128",
+            "pointName": "单纯词",
+            "pointPid": "21126"
+          },
+          {
+            "pointId": "21129",
+            "pointName": "合成词",
+            "pointPid": "21126"
+          },
+          {
+            "pointId": "21130",
+            "pointName": "叠词",
+            "pointPid": "21126"
+          },
+          {
+            "pointId": "21131",
+            "pointName": "反序词",
+            "pointPid": "21126"
+          },
+          {
+            "pointId": "21132",
+            "pointName": "对比词",
+            "pointPid": "21126"
+          },
+          {
+            "pointId": "21133",
+            "pointName": "“动物名十动词”结构的词语",
+            "pointPid": "21126"
+          }
+        ]
+      },
+      {
+        "pointId": "21134",
+        "pointName": "词性",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "26590",
+            "pointName": "词性的含义",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26591",
+            "pointName": "实词的含义及分类",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26592",
+            "pointName": "名词（实词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26593",
+            "pointName": "动词（实词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26594",
+            "pointName": "形容词（实词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26595",
+            "pointName": "数词（实词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26596",
+            "pointName": "量词（实词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26597",
+            "pointName": "代词（实词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26598",
+            "pointName": "虚词定义及分类",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26599",
+            "pointName": "副词（虚词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26600",
+            "pointName": "介词（虚词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26601",
+            "pointName": "连词（虚词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26602",
+            "pointName": "助词（虚词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26603",
+            "pointName": "叹词（虚词）",
+            "pointPid": "21134"
+          },
+          {
+            "pointId": "26604",
+            "pointName": "拟声词（虚词）",
+            "pointPid": "21134"
+          }
+        ]
+      },
+      {
+        "pointId": "21136",
+        "pointName": "词义",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21512",
+            "pointName": "词的本义、引申义、比喻义",
+            "pointPid": "21136"
+          },
+          {
+            "pointId": "21513",
+            "pointName": "词语释义的方法",
+            "pointPid": "21136"
+          },
+          {
+            "pointId": "26605",
+            "pointName": "词义辨析",
+            "pointPid": "21136"
+          }
+        ]
+      },
+      {
+        "pointId": "21139",
+        "pointName": "词的色彩",
+        "pointPid": "21125"
+      },
+      {
+        "pointId": "21140",
+        "pointName": "词语的感情色彩",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21514",
+            "pointName": "词语的感情色彩含义",
+            "pointPid": "21140"
+          },
+          {
+            "pointId": "21515",
+            "pointName": "褒义词",
+            "pointPid": "21140"
+          },
+          {
+            "pointId": "21516",
+            "pointName": "贬义词",
+            "pointPid": "21140"
+          },
+          {
+            "pointId": "21517",
+            "pointName": "中性词",
+            "pointPid": "21140"
+          }
+        ]
+      },
+      {
+        "pointId": "21141",
+        "pointName": "词语的语体色彩",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21518",
+            "pointName": "词语的语体色彩含义",
+            "pointPid": "21141"
+          },
+          {
+            "pointId": "21519",
+            "pointName": "词语的语体色彩分类",
+            "pointPid": "21141"
+          }
+        ]
+      },
+      {
+        "pointId": "21142",
+        "pointName": "同音词辨析",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21154",
+            "pointName": "同音词的含义",
+            "pointPid": "21142"
+          },
+          {
+            "pointId": "21155",
+            "pointName": "同义词类型",
+            "pointPid": "21142"
+          },
+          {
+            "pointId": "21156",
+            "pointName": "易混淆同音词或近音词辨析",
+            "pointPid": "21142"
+          },
+          {
+            "pointId": "21157",
+            "pointName": "同音词和多义词的关系",
+            "pointPid": "21142"
+          }
+        ]
+      },
+      {
+        "pointId": "21149",
+        "pointName": "多义词辨析",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21151",
+            "pointName": "多义词的含义",
+            "pointPid": "21149"
+          },
+          {
+            "pointId": "21152",
+            "pointName": "多义词的辨析方法",
+            "pointPid": "21149"
+          },
+          {
+            "pointId": "21153",
+            "pointName": "常见多义词",
+            "pointPid": "21149"
+          }
+        ]
+      },
+      {
+        "pointId": "21158",
+        "pointName": "词语的运用",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21520",
+            "pointName": "词语搭配的运用",
+            "pointPid": "21158"
+          },
+          {
+            "pointId": "21521",
+            "pointName": "词语的逻辑归类",
+            "pointPid": "21158"
+          },
+          {
+            "pointId": "21522",
+            "pointName": "量词的使用",
+            "pointPid": "21158"
+          },
+          {
+            "pointId": "21523",
+            "pointName": "词语的搭配",
+            "pointPid": "21158"
+          }
+        ]
+      },
+      {
+        "pointId": "21159",
+        "pointName": "成语",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21160",
+            "pointName": "成语的含义",
+            "pointPid": "21159"
+          },
+          {
+            "pointId": "21161",
+            "pointName": "成语的特点",
+            "pointPid": "21159"
+          },
+          {
+            "pointId": "21162",
+            "pointName": "成语的来源及归类",
+            "pointPid": "21159"
+          },
+          {
+            "pointId": "21163",
+            "pointName": "成语的运用",
+            "pointPid": "21159"
+          },
+          {
+            "pointId": "21164",
+            "pointName": "成语的理解方法",
+            "pointPid": "21159"
+          },
+          {
+            "pointId": "21183",
+            "pointName": "成语积累",
+            "pointPid": "21159"
+          },
+          {
+            "pointId": "21184",
+            "pointName": "重点成语释义",
+            "pointPid": "21159"
+          }
+        ]
+      },
+      {
+        "pointId": "21165",
+        "pointName": "含指定字的词语",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21166",
+            "pointName": "含“丽”字的词语",
+            "pointPid": "21165"
+          },
+          {
+            "pointId": "21167",
+            "pointName": "含“然”字的词语",
+            "pointPid": "21165"
+          },
+          {
+            "pointId": "21168",
+            "pointName": "含“客”字的词语",
+            "pointPid": "21165"
+          },
+          {
+            "pointId": "21169",
+            "pointName": "含“笑”字的词语",
+            "pointPid": "21165"
+          },
+          {
+            "pointId": "21170",
+            "pointName": "含“笔”字的词语",
+            "pointPid": "21165"
+          },
+          {
+            "pointId": "21171",
+            "pointName": "含“言”字的词语",
+            "pointPid": "21165"
+          },
+          {
+            "pointId": "21172",
+            "pointName": "含“手”字的词语",
+            "pointPid": "21165"
+          },
+          {
+            "pointId": "21173",
+            "pointName": "含“别”字的词语",
+            "pointPid": "21165"
+          },
+          {
+            "pointId": "21174",
+            "pointName": "含“门”字的词语",
+            "pointPid": "21165"
+          }
+        ]
+      },
+      {
+        "pointId": "21175",
+        "pointName": "词语的不同意义和用法",
+        "pointPid": "21125",
+        "childPoint": [
+          {
+            "pointId": "21176",
+            "pointName": "表示“看”的词语",
+            "pointPid": "21175"
+          },
+          {
+            "pointId": "21177",
+            "pointName": "表示“想”的词语",
+            "pointPid": "21175"
+          },
+          {
+            "pointId": "21178",
+            "pointName": "表示动物栖息场所的词语",
+            "pointPid": "21175"
+          },
+          {
+            "pointId": "21179",
+            "pointName": "表示颜色的词语",
+            "pointPid": "21175"
+          },
+          {
+            "pointId": "21180",
+            "pointName": "表示声音的词语",
+            "pointPid": "21175"
+          },
+          {
+            "pointId": "21181",
+            "pointName": "表示时间短的词语",
+            "pointPid": "21175"
+          },
+          {
+            "pointId": "21182",
+            "pointName": "轻声读意思改变的词语",
+            "pointPid": "21175"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "21185",
+    "pointName": "句子",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "21186",
+        "pointName": "句子及句子的成分",
+        "pointPid": "21185",
+        "childPoint": [
+          {
+            "pointId": "21524",
+            "pointName": "句子的概念",
+            "pointPid": "21186"
+          },
+          {
+            "pointId": "21525",
+            "pointName": "句子成分",
+            "pointPid": "21186"
+          },
+          {
+            "pointId": "21526",
+            "pointName": "辨析句子的方法",
+            "pointPid": "21186"
+          }
+        ]
+      },
+      {
+        "pointId": "21187",
+        "pointName": "句子的类型",
+        "pointPid": "21185",
+        "childPoint": [
+          {
+            "pointId": "21527",
+            "pointName": "陈述句",
+            "pointPid": "21187"
+          },
+          {
+            "pointId": "21528",
+            "pointName": "疑问句",
+            "pointPid": "21187"
+          },
+          {
+            "pointId": "21529",
+            "pointName": "祈使句",
+            "pointPid": "21187"
+          },
+          {
+            "pointId": "21530",
+            "pointName": "感叹句",
+            "pointPid": "21187"
+          },
+          {
+            "pointId": "21531",
+            "pointName": "单句",
+            "pointPid": "21187"
+          },
+          {
+            "pointId": "21532",
+            "pointName": "复句",
+            "pointPid": "21187"
+          },
+          {
+            "pointId": "21533",
+            "pointName": "句子类型划分标准",
+            "pointPid": "21187"
+          }
+        ]
+      },
+      {
+        "pointId": "21188",
+        "pointName": "句子的关联",
+        "pointPid": "21185",
+        "childPoint": [
+          {
+            "pointId": "21534",
+            "pointName": "关联句的含义",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21535",
+            "pointName": "常见的关联句类型和关联词语",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21536",
+            "pointName": "并列关系",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21537",
+            "pointName": "承接关系",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21538",
+            "pointName": "因果关系",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21539",
+            "pointName": "转折关系",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21540",
+            "pointName": "选择关系",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21541",
+            "pointName": "假设关系",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21542",
+            "pointName": "条件关系",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21543",
+            "pointName": "递进关系",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21544",
+            "pointName": "选择关系的几种类型",
+            "pointPid": "21188"
+          },
+          {
+            "pointId": "21545",
+            "pointName": "几种容易混淆的关联词语",
+            "pointPid": "21188"
+          }
+        ]
+      },
+      {
+        "pointId": "21189",
+        "pointName": "句式的转换",
+        "pointPid": "21185",
+        "childPoint": [
+          {
+            "pointId": "21546",
+            "pointName": "陈述句与“把”字句、“被”字句的转换",
+            "pointPid": "21189"
+          },
+          {
+            "pointId": "21547",
+            "pointName": "“把”字句和“被”字句的转换",
+            "pointPid": "21189"
+          },
+          {
+            "pointId": "21548",
+            "pointName": "肯定句和（双重）否定句的变换",
+            "pointPid": "21189"
+          },
+          {
+            "pointId": "21549",
+            "pointName": "陈述句与反问句的变换",
+            "pointPid": "21189"
+          },
+          {
+            "pointId": "21550",
+            "pointName": "陈述句与感叹句的转换",
+            "pointPid": "21189"
+          },
+          {
+            "pointId": "21551",
+            "pointName": "引述句与转述句的转换",
+            "pointPid": "21189"
+          },
+          {
+            "pointId": "21552",
+            "pointName": "因果关系的句式转换",
+            "pointPid": "21189"
+          },
+          {
+            "pointId": "21553",
+            "pointName": "变换词序",
+            "pointPid": "21189"
+          },
+          {
+            "pointId": "21554",
+            "pointName": "双重否定句的特点",
+            "pointPid": "21189"
+          },
+          {
+            "pointId": "21555",
+            "pointName": "陈述句改为反问句的方法",
+            "pointPid": "21189"
+          },
+          {
+            "pointId": "21556",
+            "pointName": "直接叙述改为间接的注意事项",
+            "pointPid": "21189"
+          }
+        ]
+      },
+      {
+        "pointId": "21190",
+        "pointName": "扩写句子",
+        "pointPid": "21185",
+        "childPoint": [
+          {
+            "pointId": "21557",
+            "pointName": "扩句含义",
+            "pointPid": "21190"
+          },
+          {
+            "pointId": "21558",
+            "pointName": "扩句常见的练习形式",
+            "pointPid": "21190"
+          },
+          {
+            "pointId": "21559",
+            "pointName": "扩写句子应注意的问题",
+            "pointPid": "21190"
+          }
+        ]
+      },
+      {
+        "pointId": "21191",
+        "pointName": "缩写句子",
+        "pointPid": "21185",
+        "childPoint": [
+          {
+            "pointId": "21560",
+            "pointName": "缩句含义",
+            "pointPid": "21191"
+          },
+          {
+            "pointId": "21561",
+            "pointName": "缩写句子的方法",
+            "pointPid": "21191"
+          },
+          {
+            "pointId": "21562",
+            "pointName": "缩写句子时的注意事项",
+            "pointPid": "21191"
+          }
+        ]
+      },
+      {
+        "pointId": "21192",
+        "pointName": "仿写句子",
+        "pointPid": "21185",
+        "childPoint": [
+          {
+            "pointId": "21563",
+            "pointName": "仿写句子含义",
+            "pointPid": "21192"
+          },
+          {
+            "pointId": "21564",
+            "pointName": "仿写“三相同”",
+            "pointPid": "21192"
+          },
+          {
+            "pointId": "21565",
+            "pointName": "仿句应遵循的三步法则",
+            "pointPid": "21192"
+          },
+          {
+            "pointId": "21566",
+            "pointName": "咏物类仿句精选",
+            "pointPid": "21192"
+          },
+          {
+            "pointId": "21567",
+            "pointName": "情感与品质类仿句精选",
+            "pointPid": "21192"
+          },
+          {
+            "pointId": "21568",
+            "pointName": "全解类仿句精选",
+            "pointPid": "21192"
+          },
+          {
+            "pointId": "21569",
+            "pointName": "其他仿句精选",
+            "pointPid": "21192"
+          }
+        ]
+      },
+      {
+        "pointId": "21193",
+        "pointName": "造句",
+        "pointPid": "21185",
+        "childPoint": [
+          {
+            "pointId": "21570",
+            "pointName": "造句的含义",
+            "pointPid": "21193"
+          },
+          {
+            "pointId": "21571",
+            "pointName": "造句的形式",
+            "pointPid": "21193"
+          },
+          {
+            "pointId": "21572",
+            "pointName": "造句的原则",
+            "pointPid": "21193"
+          }
+        ]
+      },
+      {
+        "pointId": "21194",
+        "pointName": "病句的辨析及修改",
+        "pointPid": "21185",
+        "childPoint": [
+          {
+            "pointId": "21573",
+            "pointName": "常见病句的病因",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21574",
+            "pointName": "修改病句的原则",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21575",
+            "pointName": "修改病句的方法",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21576",
+            "pointName": "修改病句五字诀",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21577",
+            "pointName": "常用的修改符号",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21578",
+            "pointName": "成分残缺",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21579",
+            "pointName": "搭配不当",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21580",
+            "pointName": "重复累赘",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21581",
+            "pointName": "前后矛盾",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21582",
+            "pointName": "词序颠倒",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21583",
+            "pointName": "用词不当",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21584",
+            "pointName": "概念不清",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21585",
+            "pointName": "指代不明",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21586",
+            "pointName": "不符合事实",
+            "pointPid": "21194"
+          },
+          {
+            "pointId": "21587",
+            "pointName": "关联词误用",
+            "pointPid": "21194"
+          }
+        ]
+      },
+      {
+        "pointId": "21195",
+        "pointName": "句子的衔接和整理句序",
+        "pointPid": "21185",
+        "childPoint": [
+          {
+            "pointId": "21588",
+            "pointName": "句子的衔接",
+            "pointPid": "21195"
+          },
+          {
+            "pointId": "21589",
+            "pointName": "句子的排序",
+            "pointPid": "21195"
+          },
+          {
+            "pointId": "21590",
+            "pointName": "整理句序的步骤方法",
+            "pointPid": "21195"
+          },
+          {
+            "pointId": "21591",
+            "pointName": "常见句子排序类型",
+            "pointPid": "21195"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "21196",
+    "pointName": "标点符号",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "21197",
+        "pointName": "标点符号及种类",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21592",
+            "pointName": "标点符号及种类",
+            "pointPid": "21197"
+          }
+        ]
+      },
+      {
+        "pointId": "21198",
+        "pointName": "标点符号的用法",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21593",
+            "pointName": "常见标点符号用法简表",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21594",
+            "pointName": "句号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21595",
+            "pointName": "问号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21596",
+            "pointName": "感叹号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21597",
+            "pointName": "逗号使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21598",
+            "pointName": "顿号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21599",
+            "pointName": "分号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21600",
+            "pointName": "冒号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21601",
+            "pointName": "引号的用法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21602",
+            "pointName": "括号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21603",
+            "pointName": "破折号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21604",
+            "pointName": "省略号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21605",
+            "pointName": "书名号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21606",
+            "pointName": "着重号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21607",
+            "pointName": "间隔号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21608",
+            "pointName": "连接号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21609",
+            "pointName": "专名号的使用方法",
+            "pointPid": "21198"
+          },
+          {
+            "pointId": "21610",
+            "pointName": "分隔号的使用方法",
+            "pointPid": "21198"
+          }
+        ]
+      },
+      {
+        "pointId": "21199",
+        "pointName": "标点符号的书写格式",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21611",
+            "pointName": "标点符号的书写格式",
+            "pointPid": "21199"
+          }
+        ]
+      },
+      {
+        "pointId": "21200",
+        "pointName": "标点符号作用",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21612",
+            "pointName": "标点符号作用",
+            "pointPid": "21200"
+          }
+        ]
+      },
+      {
+        "pointId": "21201",
+        "pointName": "顿号、逗号、分号的区别",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21613",
+            "pointName": "顿号、逗号、分号的区别",
+            "pointPid": "21201"
+          }
+        ]
+      },
+      {
+        "pointId": "21202",
+        "pointName": "破折号与括号的区别",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21614",
+            "pointName": "破折号与括号的区别",
+            "pointPid": "21202"
+          }
+        ]
+      },
+      {
+        "pointId": "21203",
+        "pointName": "使用句号技巧",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21615",
+            "pointName": "使用句号技巧",
+            "pointPid": "21203"
+          }
+        ]
+      },
+      {
+        "pointId": "21204",
+        "pointName": "句号的错误用法",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21616",
+            "pointName": "句号的错误用法",
+            "pointPid": "21204"
+          }
+        ]
+      },
+      {
+        "pointId": "21205",
+        "pointName": "人物对话中的标点使用",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21617",
+            "pointName": "人物对话中的标点使用",
+            "pointPid": "21205"
+          }
+        ]
+      },
+      {
+        "pointId": "21206",
+        "pointName": "括号的其他的几种形式",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21618",
+            "pointName": "括号的其他几种形式",
+            "pointPid": "21206"
+          }
+        ]
+      },
+      {
+        "pointId": "21207",
+        "pointName": "使用问号禁忌",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21619",
+            "pointName": "使用问号禁忌",
+            "pointPid": "21207"
+          }
+        ]
+      },
+      {
+        "pointId": "21208",
+        "pointName": "使用感叹号禁忌",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21620",
+            "pointName": "使用感叹号禁忌",
+            "pointPid": "21208"
+          }
+        ]
+      },
+      {
+        "pointId": "21209",
+        "pointName": "使用省略号禁忌",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21621",
+            "pointName": "使用省略号禁忌",
+            "pointPid": "21209"
+          }
+        ]
+      },
+      {
+        "pointId": "21210",
+        "pointName": "点号形状用法歌诀",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21622",
+            "pointName": "点号形状用法歌诀",
+            "pointPid": "21210"
+          }
+        ]
+      },
+      {
+        "pointId": "21211",
+        "pointName": "标号形状用法歌诀",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21623",
+            "pointName": "标号形状用法歌诀",
+            "pointPid": "21211"
+          }
+        ]
+      },
+      {
+        "pointId": "21212",
+        "pointName": "数词的顿号使用规则",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21624",
+            "pointName": "数词的顿号使用规则",
+            "pointPid": "21212"
+          }
+        ]
+      },
+      {
+        "pointId": "21213",
+        "pointName": "当分号和逗号都可以使用时，应注意的几点",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21625",
+            "pointName": "当分号和逗号都可以使用时，应注意的几点",
+            "pointPid": "21213"
+          }
+        ]
+      },
+      {
+        "pointId": "21214",
+        "pointName": "使用引号应注意的问题",
+        "pointPid": "21196",
+        "childPoint": [
+          {
+            "pointId": "21626",
+            "pointName": "使用引号应注意的问题",
+            "pointPid": "21214"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "21215",
+    "pointName": "修辞",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "21216",
+        "pointName": "什么是修辞方法",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21627",
+            "pointName": "什么是修辞方法",
+            "pointPid": "21216"
+          }
+        ]
+      },
+      {
+        "pointId": "21217",
+        "pointName": "常用的修辞方法",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21628",
+            "pointName": "比喻",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21629",
+            "pointName": "拟人",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21630",
+            "pointName": "夸张",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21631",
+            "pointName": "排比",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21632",
+            "pointName": "反问",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21633",
+            "pointName": "设问",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21634",
+            "pointName": "双关",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21635",
+            "pointName": "反语",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21636",
+            "pointName": "引用",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21637",
+            "pointName": "对比",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21638",
+            "pointName": "对偶",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21639",
+            "pointName": "反复",
+            "pointPid": "21217"
+          },
+          {
+            "pointId": "21640",
+            "pointName": "借代",
+            "pointPid": "21217"
+          }
+        ]
+      },
+      {
+        "pointId": "21218",
+        "pointName": "带“像”字句子的非比喻用法",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21641",
+            "pointName": "带“像”字句子的非比喻用法",
+            "pointPid": "21218"
+          }
+        ]
+      },
+      {
+        "pointId": "21219",
+        "pointName": "比喻和拟人的区别",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21642",
+            "pointName": "比喻与拟人的区别",
+            "pointPid": "21219"
+          }
+        ]
+      },
+      {
+        "pointId": "21220",
+        "pointName": "运用比喻时的注意事项",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21643",
+            "pointName": "运用比喻时的注意事项",
+            "pointPid": "21220"
+          }
+        ]
+      },
+      {
+        "pointId": "21221",
+        "pointName": "夸张不等于说大话",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21644",
+            "pointName": "夸张不等于说大话",
+            "pointPid": "21221"
+          }
+        ]
+      },
+      {
+        "pointId": "21222",
+        "pointName": "排比句运用技巧",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21645",
+            "pointName": "排比句运用技巧",
+            "pointPid": "21222"
+          }
+        ]
+      },
+      {
+        "pointId": "21223",
+        "pointName": "反问与设问的区别",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21646",
+            "pointName": "反问与设问的区别",
+            "pointPid": "21223"
+          }
+        ]
+      },
+      {
+        "pointId": "21224",
+        "pointName": "运用反问句应注意的地方",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21647",
+            "pointName": "运用反问句应注意的地方",
+            "pointPid": "21224"
+          }
+        ]
+      },
+      {
+        "pointId": "21225",
+        "pointName": "双关与反语的区别",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21648",
+            "pointName": "双关与反语的区别",
+            "pointPid": "21225"
+          }
+        ]
+      },
+      {
+        "pointId": "21226",
+        "pointName": "对比与对偶的区别",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21649",
+            "pointName": "对比与对偶的区别",
+            "pointPid": "21226"
+          }
+        ]
+      },
+      {
+        "pointId": "21227",
+        "pointName": "借喻与借代的相同点与不同点",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21650",
+            "pointName": "借喻与借代的相同点与不同点",
+            "pointPid": "21227"
+          }
+        ]
+      },
+      {
+        "pointId": "21228",
+        "pointName": "修辞方法运用歌诀",
+        "pointPid": "21215",
+        "childPoint": [
+          {
+            "pointId": "21651",
+            "pointName": "修辞方法运用歌诀",
+            "pointPid": "21228"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "26097",
+    "pointName": "阅读鉴赏",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "20964",
+        "pointName": "说明文",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "20977",
+            "pointName": "说明文的概念",
+            "pointPid": "20964"
+          },
+          {
+            "pointId": "20978",
+            "pointName": "说明文和记叙文的区别",
+            "pointPid": "20964"
+          },
+          {
+            "pointId": "20979",
+            "pointName": "说明文的阅读方法",
+            "pointPid": "20964"
+          },
+          {
+            "pointId": "20980",
+            "pointName": "说明文常用顺序",
+            "pointPid": "20964"
+          },
+          {
+            "pointId": "20981",
+            "pointName": "常见说明方法",
+            "pointPid": "20964"
+          }
+        ]
+      },
+      {
+        "pointId": "20976",
+        "pointName": "议论文",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "20983",
+            "pointName": "议论文概念",
+            "pointPid": "20976"
+          },
+          {
+            "pointId": "20984",
+            "pointName": "议论文三要素",
+            "pointPid": "20976"
+          },
+          {
+            "pointId": "20985",
+            "pointName": "议论文论证方式",
+            "pointPid": "20976"
+          },
+          {
+            "pointId": "20986",
+            "pointName": "常用论证方法",
+            "pointPid": "20976"
+          },
+          {
+            "pointId": "20987",
+            "pointName": "议论文阅读方法",
+            "pointPid": "20976"
+          }
+        ]
+      },
+      {
+        "pointId": "20990",
+        "pointName": "童话",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "21291",
+            "pointName": "童话的概念",
+            "pointPid": "20990"
+          },
+          {
+            "pointId": "21292",
+            "pointName": "童话的特点和类型",
+            "pointPid": "20990"
+          },
+          {
+            "pointId": "21293",
+            "pointName": "童话的阅读方法",
+            "pointPid": "20990"
+          }
+        ]
+      },
+      {
+        "pointId": "20991",
+        "pointName": "寓言",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "21294",
+            "pointName": "寓言的概念和特点",
+            "pointPid": "20991"
+          },
+          {
+            "pointId": "21295",
+            "pointName": "寓言的阅读步骤",
+            "pointPid": "20991"
+          },
+          {
+            "pointId": "21296",
+            "pointName": "童话和寓言的区别",
+            "pointPid": "20991"
+          }
+        ]
+      },
+      {
+        "pointId": "20992",
+        "pointName": "现代诗歌阅读",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "21297",
+            "pointName": "现代诗歌的概念",
+            "pointPid": "20992"
+          },
+          {
+            "pointId": "21298",
+            "pointName": "现代诗歌的阅读方法",
+            "pointPid": "20992"
+          }
+        ]
+      },
+      {
+        "pointId": "20994",
+        "pointName": "词句的阅读",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "26098",
+            "pointName": "理解词义",
+            "pointPid": "20994"
+          },
+          {
+            "pointId": "26099",
+            "pointName": "理解句子含义",
+            "pointPid": "20994"
+          },
+          {
+            "pointId": "26100",
+            "pointName": "中心句和过渡句",
+            "pointPid": "20994"
+          }
+        ]
+      },
+      {
+        "pointId": "20995",
+        "pointName": "段落的阅读",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "26101",
+            "pointName": "读懂自然段的基本方法",
+            "pointPid": "20995"
+          },
+          {
+            "pointId": "26102",
+            "pointName": "自然段的构段形式",
+            "pointPid": "20995"
+          },
+          {
+            "pointId": "26103",
+            "pointName": "自然段的分层方法",
+            "pointPid": "20995"
+          },
+          {
+            "pointId": "26104",
+            "pointName": "自然段段意概括",
+            "pointPid": "20995"
+          }
+        ]
+      },
+      {
+        "pointId": "20996",
+        "pointName": "篇章的阅读",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "26105",
+            "pointName": "划分段落",
+            "pointPid": "20996"
+          },
+          {
+            "pointId": "26106",
+            "pointName": "概括段落大意",
+            "pointPid": "20996"
+          },
+          {
+            "pointId": "26107",
+            "pointName": "概括主要内容",
+            "pointPid": "20996"
+          },
+          {
+            "pointId": "26108",
+            "pointName": "文章主题",
+            "pointPid": "20996"
+          },
+          {
+            "pointId": "26109",
+            "pointName": "文章标题",
+            "pointPid": "20996"
+          },
+          {
+            "pointId": "26110",
+            "pointName": "体会思想感情",
+            "pointPid": "20996"
+          },
+          {
+            "pointId": "26111",
+            "pointName": "领悟表达方法",
+            "pointPid": "20996"
+          }
+        ]
+      },
+      {
+        "pointId": "26094",
+        "pointName": "阅读的方式、步骤和读懂标准",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "20999",
+            "pointName": "精读、略读、浏览",
+            "pointPid": "26094"
+          },
+          {
+            "pointId": "21000",
+            "pointName": "默读、朗读、复述、背诵",
+            "pointPid": "26094"
+          },
+          {
+            "pointId": "26131",
+            "pointName": "阅读一篇文章的步骤",
+            "pointPid": "26094"
+          },
+          {
+            "pointId": "26132",
+            "pointName": "读懂一篇文章的标准",
+            "pointPid": "26094"
+          }
+        ]
+      },
+      {
+        "pointId": "26112",
+        "pointName": "记叙文（散文、小说）",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "20965",
+            "pointName": "记叙文概念和分类",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20966",
+            "pointName": "表达方式",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20967",
+            "pointName": "表达线索",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20968",
+            "pointName": "人物描写",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20969",
+            "pointName": "环境描写",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20970",
+            "pointName": "修辞手法",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20971",
+            "pointName": "写作手法",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20972",
+            "pointName": "写人文章阅读",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20973",
+            "pointName": "记事文章阅读",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20974",
+            "pointName": "写景文章阅读",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20975",
+            "pointName": "状物文章阅读",
+            "pointPid": "26112"
+          },
+          {
+            "pointId": "20989",
+            "pointName": "小说的阅读",
+            "pointPid": "26112"
+          }
+        ]
+      },
+      {
+        "pointId": "26113",
+        "pointName": "古诗词阅读与鉴赏",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "21054",
+            "pointName": "古诗朗读的一般节奏",
+            "pointPid": "26113"
+          },
+          {
+            "pointId": "21055",
+            "pointName": "诗歌四步阅读法",
+            "pointPid": "26113"
+          },
+          {
+            "pointId": "21057",
+            "pointName": "诗词名句分类集锦",
+            "pointPid": "26113"
+          },
+          {
+            "pointId": "26090",
+            "pointName": "小学诗歌鉴赏",
+            "pointPid": "26113"
+          }
+        ]
+      },
+      {
+        "pointId": "26114",
+        "pointName": "文言文阅读",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "21005",
+            "pointName": "文言文阅读要求及方法",
+            "pointPid": "26114"
+          },
+          {
+            "pointId": "21006",
+            "pointName": "文言文翻译方法和口诀",
+            "pointPid": "26114"
+          },
+          {
+            "pointId": "21007",
+            "pointName": "小学文言集锦",
+            "pointPid": "26114"
+          },
+          {
+            "pointId": "26136",
+            "pointName": "文言文常见实词",
+            "pointPid": "26114"
+          },
+          {
+            "pointId": "26137",
+            "pointName": "文言文常见虚词",
+            "pointPid": "26114"
+          }
+        ]
+      },
+      {
+        "pointId": "26115",
+        "pointName": "创新阅读",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "21016",
+            "pointName": "对比阅读",
+            "pointPid": "26115"
+          },
+          {
+            "pointId": "21017",
+            "pointName": "漫画阅读",
+            "pointPid": "26115"
+          },
+          {
+            "pointId": "21018",
+            "pointName": "非连续性阅读（统计图表、图画）",
+            "pointPid": "26115"
+          }
+        ]
+      },
+      {
+        "pointId": "26116",
+        "pointName": "名著阅读",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "26405",
+            "pointName": "名著的阅读方法",
+            "pointPid": "26116"
+          },
+          {
+            "pointId": "26406",
+            "pointName": "名著综合",
+            "pointPid": "26116"
+          }
+        ]
+      },
+      {
+        "pointId": "26133",
+        "pointName": "其他",
+        "pointPid": "26097",
+        "childPoint": [
+          {
+            "pointId": "26117",
+            "pointName": "课外阅读",
+            "pointPid": "26133"
+          },
+          {
+            "pointId": "26118",
+            "pointName": "剧本",
+            "pointPid": "26133"
+          },
+          {
+            "pointId": "26119",
+            "pointName": "相声",
+            "pointPid": "26133"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "26122",
+    "pointName": "口语交际与综合性学习",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "26123",
+        "pointName": "口语交际",
+        "pointPid": "26122",
+        "childPoint": [
+          {
+            "pointId": "26124",
+            "pointName": "”听“话训练",
+            "pointPid": "26123"
+          },
+          {
+            "pointId": "26125",
+            "pointName": "”说“话训练",
+            "pointPid": "26123"
+          },
+          {
+            "pointId": "26126",
+            "pointName": "语言技巧",
+            "pointPid": "26123"
+          },
+          {
+            "pointId": "26127",
+            "pointName": "常见的口语交际话题",
+            "pointPid": "26123"
+          }
+        ]
+      },
+      {
+        "pointId": "26128",
+        "pointName": "综合性学习",
+        "pointPid": "26122",
+        "childPoint": [
+          {
+            "pointId": "21009",
+            "pointName": "综合性学习的概念和特点",
+            "pointPid": "26128"
+          },
+          {
+            "pointId": "21010",
+            "pointName": "选题分类",
+            "pointPid": "26128"
+          },
+          {
+            "pointId": "21011",
+            "pointName": "过程与方法",
+            "pointPid": "26128"
+          },
+          {
+            "pointId": "21012",
+            "pointName": "活动计划的写法",
+            "pointPid": "26128"
+          },
+          {
+            "pointId": "21013",
+            "pointName": "活动总结的写法",
+            "pointPid": "26128"
+          },
+          {
+            "pointId": "21014",
+            "pointName": "调查报告的写法",
+            "pointPid": "26128"
+          },
+          {
+            "pointId": "21015",
+            "pointName": "活动事例展示",
+            "pointPid": "26128"
+          },
+          {
+            "pointId": "26095",
+            "pointName": "编写提示语（广告语、宣传语、标语、颁奖词等）",
+            "pointPid": "26128"
+          },
+          {
+            "pointId": "26096",
+            "pointName": "信息提取与概括",
+            "pointPid": "26128"
+          }
+        ]
+      },
+      {
+        "pointId": "26404",
+        "pointName": "语言表达",
+        "pointPid": "26122"
+      }
+    ]
+  },
+  {
+    "pointId": "36256",
+    "pointName": "基础知识",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "36252",
+        "pointName": "汉语拼音",
+        "pointPid": "36256",
+        "childPoint": [
+          {
+            "pointId": "36272",
+            "pointName": "声母、韵母、整体认读音节、字母表",
+            "pointPid": "36252"
+          },
+          {
+            "pointId": "KXYW791735352850120704",
+            "pointName": "拼写规则",
+            "pointPid": "36252"
+          },
+          {
+            "pointId": "KXYW791735352996921344",
+            "pointName": "字词注音",
+            "pointPid": "36252"
+          }
+        ]
+      },
+      {
+        "pointId": "36253",
+        "pointName": "识字写字",
+        "pointPid": "36256",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735353181470720",
+            "pointName": "汉字的书写及结构",
+            "pointPid": "36253"
+          },
+          {
+            "pointId": "KXYW791735353261162496",
+            "pointName": "汉字的形义",
+            "pointPid": "36253"
+          },
+          {
+            "pointId": "KXYW791735353319882752",
+            "pointName": "汉字的辨析",
+            "pointPid": "36253"
+          },
+          {
+            "pointId": "KXYW791735353399574528",
+            "pointName": "猜字谜",
+            "pointPid": "36253"
+          },
+          {
+            "pointId": "KXYW791735353487654912",
+            "pointName": "看拼音写汉字",
+            "pointPid": "36253"
+          }
+        ]
+      },
+      {
+        "pointId": "36254",
+        "pointName": "词语",
+        "pointPid": "36256",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735353655427072",
+            "pointName": "词语的理解及色彩",
+            "pointPid": "36254"
+          },
+          {
+            "pointId": "KXYW791735353735118848",
+            "pointName": "词语的辨析",
+            "pointPid": "36254"
+          },
+          {
+            "pointId": "KXYW791735353844170752",
+            "pointName": "词语搭配",
+            "pointPid": "36254"
+          },
+          {
+            "pointId": "KXYW791735353953222656",
+            "pointName": "词语的逻辑归类",
+            "pointPid": "36254"
+          },
+          {
+            "pointId": "KXYW791735354032914432",
+            "pointName": "量词的使用",
+            "pointPid": "36254"
+          },
+          {
+            "pointId": "KXYW791735354162937856",
+            "pointName": "词语的仿写",
+            "pointPid": "36254"
+          },
+          {
+            "pointId": "KXYW791735354242629632",
+            "pointName": "组词",
+            "pointPid": "36254"
+          },
+          {
+            "pointId": "KXYW791735354360070144",
+            "pointName": "成语",
+            "pointPid": "36254"
+          }
+        ]
+      },
+      {
+        "pointId": "36255",
+        "pointName": "句子",
+        "pointPid": "36256",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735354699808768",
+            "pointName": "句子的类型",
+            "pointPid": "36255"
+          },
+          {
+            "pointId": "KXYW791735354779500544",
+            "pointName": "关联词的运用和句子关联类型",
+            "pointPid": "36255"
+          },
+          {
+            "pointId": "KXYW791735354871775232",
+            "pointName": "句式转换",
+            "pointPid": "36255"
+          },
+          {
+            "pointId": "KXYW791735354955661312",
+            "pointName": "病句的辨析与修改",
+            "pointPid": "36255"
+          },
+          {
+            "pointId": "KXYW791735355026964480",
+            "pointName": "造句、连词成句",
+            "pointPid": "36255"
+          },
+          {
+            "pointId": "KXYW791735355106656256",
+            "pointName": "仿句、补写句子",
+            "pointPid": "36255"
+          },
+          {
+            "pointId": "KXYW791735355182153728",
+            "pointName": "扩句、缩句",
+            "pointPid": "36255"
+          },
+          {
+            "pointId": "KXYW791735355282817024",
+            "pointName": "标点符号的使用",
+            "pointPid": "36255"
+          },
+          {
+            "pointId": "KXYW791735355391868928",
+            "pointName": "修辞手法",
+            "pointPid": "36255"
+          },
+          {
+            "pointId": "KXYW791735355471560704",
+            "pointName": "句子的衔接和排序",
+            "pointPid": "36255"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "36265",
+    "pointName": "阅读鉴赏",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "36259",
+        "pointName": "语段阅读",
+        "pointPid": "36265",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735357371580416",
+            "pointName": "理解词句含义",
+            "pointPid": "36259"
+          },
+          {
+            "pointId": "KXYW791735357514186752",
+            "pointName": "总起句、中心句、过渡句、总结句",
+            "pointPid": "36259"
+          },
+          {
+            "pointId": "KXYW791735357598072832",
+            "pointName": "自然段的构段形式",
+            "pointPid": "36259"
+          },
+          {
+            "pointId": "KXYW791735357782622208",
+            "pointName": "自然段分层、概括段落层意",
+            "pointPid": "36259"
+          },
+          {
+            "pointId": "KXYW791735357962977280",
+            "pointName": "语段阅读综合",
+            "pointPid": "36259"
+          }
+        ]
+      },
+      {
+        "pointId": "36260",
+        "pointName": "诗歌鉴赏",
+        "pointPid": "36265",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735358134943744",
+            "pointName": "词语的表达效果",
+            "pointPid": "36260"
+          },
+          {
+            "pointId": "KXYW791735358252384256",
+            "pointName": "理解诗文大意",
+            "pointPid": "36260"
+          },
+          {
+            "pointId": "KXYW791735358340464640",
+            "pointName": "诗的思想感情",
+            "pointPid": "36260"
+          },
+          {
+            "pointId": "KXYW791735358428545024",
+            "pointName": "诗的意境意象",
+            "pointPid": "36260"
+          },
+          {
+            "pointId": "KXYW791735358537596928",
+            "pointName": "诗的写作手法",
+            "pointPid": "36260"
+          },
+          {
+            "pointId": "KXYW791735358638260224",
+            "pointName": "诗歌阅读综合",
+            "pointPid": "36260"
+          }
+        ]
+      },
+      {
+        "pointId": "36261",
+        "pointName": "文言文阅读",
+        "pointPid": "36265",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735358902501376",
+            "pointName": "词义理解",
+            "pointPid": "36261"
+          },
+          {
+            "pointId": "KXYW791735359015747584",
+            "pointName": "文言文断句",
+            "pointPid": "36261"
+          },
+          {
+            "pointId": "KXYW791735359175131136",
+            "pointName": "文言文翻译",
+            "pointPid": "36261"
+          },
+          {
+            "pointId": "KXYW791735359279988736",
+            "pointName": "筛选整合文中信息，概括大意",
+            "pointPid": "36261"
+          },
+          {
+            "pointId": "KXYW791735359380652032",
+            "pointName": "文言文阅读综合",
+            "pointPid": "36261"
+          }
+        ]
+      },
+      {
+        "pointId": "36262",
+        "pointName": "记叙文阅读",
+        "pointPid": "36265",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735359565201408",
+            "pointName": "理解词句的意思，体会表达效果",
+            "pointPid": "36262"
+          },
+          {
+            "pointId": "KXYW791735359703613440",
+            "pointName": "筛选整合文中信息，概括大意",
+            "pointPid": "36262"
+          },
+          {
+            "pointId": "KXYW791735359862996992",
+            "pointName": "了解文章的表达顺序和基本表达方法",
+            "pointPid": "36262"
+          },
+          {
+            "pointId": "KXYW791735359963660288",
+            "pointName": "体会作者的思想感情",
+            "pointPid": "36262"
+          },
+          {
+            "pointId": "KXYW791735360068517888",
+            "pointName": "理解文段的作用",
+            "pointPid": "36262"
+          },
+          {
+            "pointId": "KXYW791735360177569792",
+            "pointName": "分析人物形象",
+            "pointPid": "36262"
+          },
+          {
+            "pointId": "KXYW791735360261455872",
+            "pointName": "记叙文阅读综合",
+            "pointPid": "36262"
+          }
+        ]
+      },
+      {
+        "pointId": "36263",
+        "pointName": "说明文阅读",
+        "pointPid": "36265",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735360534085632",
+            "pointName": "说明方法及其作用",
+            "pointPid": "36263"
+          },
+          {
+            "pointId": "KXYW791735360622166016",
+            "pointName": "筛选整合文中信息，概括大意",
+            "pointPid": "36263"
+          },
+          {
+            "pointId": "KXYW791735360764772352",
+            "pointName": "说明文阅读综合",
+            "pointPid": "36263"
+          }
+        ]
+      },
+      {
+        "pointId": "36264",
+        "pointName": "其他文体阅读",
+        "pointPid": "36265",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735360987070464",
+            "pointName": "童话、寓言、现代诗阅读综合",
+            "pointPid": "36264"
+          },
+          {
+            "pointId": "KXYW791735361121288192",
+            "pointName": "议论文阅读综合",
+            "pointPid": "36264"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "36268",
+    "pointName": "写作",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "36266",
+        "pointName": "常见命题形式",
+        "pointPid": "36268",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735361456832512",
+            "pointName": "命题作文",
+            "pointPid": "36266"
+          },
+          {
+            "pointId": "KXYW791735361570078720",
+            "pointName": "半命题作文",
+            "pointPid": "36266"
+          },
+          {
+            "pointId": "KXYW791735361746239488",
+            "pointName": "材料作文",
+            "pointPid": "36266"
+          },
+          {
+            "pointId": "KXYW791735361918205952",
+            "pointName": "小作文",
+            "pointPid": "36266"
+          }
+        ]
+      },
+      {
+        "pointId": "36267",
+        "pointName": "写作类型",
+        "pointPid": "36268",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735362186641408",
+            "pointName": "纪实作文",
+            "pointPid": "36267"
+          },
+          {
+            "pointId": "KXYW791735362325053440",
+            "pointName": "看图作文",
+            "pointPid": "36267"
+          },
+          {
+            "pointId": "KXYW791735362417328128",
+            "pointName": "想象作文",
+            "pointPid": "36267"
+          },
+          {
+            "pointId": "KXYW791735362505408512",
+            "pointName": "话题作文",
+            "pointPid": "36267"
+          },
+          {
+            "pointId": "KXYW791735362585100288",
+            "pointName": "应用文",
+            "pointPid": "36267"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "36271",
+    "pointName": "积累与运用",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "36257",
+        "pointName": "口语交际",
+        "pointPid": "36271",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735356260089856",
+            "pointName": "口语交际综合运用",
+            "pointPid": "36257"
+          }
+        ]
+      },
+      {
+        "pointId": "36258",
+        "pointName": "综合性学习",
+        "pointPid": "36271",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735356465610752",
+            "pointName": "信息提取与概括",
+            "pointPid": "36258"
+          },
+          {
+            "pointId": "KXYW791735356591439872",
+            "pointName": "编写提示语（广告语、宣传语等）",
+            "pointPid": "36258"
+          },
+          {
+            "pointId": "KXYW791735356704686080",
+            "pointName": "非连续性文本阅读",
+            "pointPid": "36258"
+          },
+          {
+            "pointId": "KXYW791735356796960768",
+            "pointName": "语文实践活动",
+            "pointPid": "36258"
+          }
+        ]
+      },
+      {
+        "pointId": "36269",
+        "pointName": "人文常识",
+        "pointPid": "36271",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735355756773376",
+            "pointName": "格言警句、熟语、对联",
+            "pointPid": "36269"
+          },
+          {
+            "pointId": "KXYW791735355828076544",
+            "pointName": "古诗词名句积累与运用",
+            "pointPid": "36269"
+          },
+          {
+            "pointId": "KXYW791735355920351232",
+            "pointName": "文学与文化常识",
+            "pointPid": "36269"
+          },
+          {
+            "pointId": "KXYW791735356104900608",
+            "pointName": "综合素质",
+            "pointPid": "36269"
+          }
+        ]
+      },
+      {
+        "pointId": "36270",
+        "pointName": "课文识记",
+        "pointPid": "36271",
+        "childPoint": [
+          {
+            "pointId": "KXYW791735357015064576",
+            "pointName": "课文内容填空",
+            "pointPid": "36270"
+          },
+          {
+            "pointId": "KXYW791735357090562048",
+            "pointName": "课文内容理解",
+            "pointPid": "36270"
+          }
+        ]
+      }
+    ]
+  }
+]

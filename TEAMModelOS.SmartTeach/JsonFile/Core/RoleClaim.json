@@ -1,0 +1,152 @@
+[
+  {
+    "RoleLevelName": "校级",
+    "RoleLevel": 10801,
+    "ClaimType": "TeamModelId",
+    "Order": 2
+  },
+  {
+    "RoleLevelName": "校级",
+    "RoleLevel": 10801,
+    "ClaimType": "RoleCode",
+    "Order": 3
+  },
+  {
+    "RoleLevelName": "校级",
+    "RoleLevel": 10801,
+    "ClaimType": "SchoolCode",
+    "Order": 1
+  },
+  {
+    "RoleLevelName": "校区",
+    "RoleLevel": 10901,
+    "ClaimType": "TeamModelId",
+    "Order": 3
+  },
+  {
+    "RoleLevelName": "校区",
+    "RoleLevel": 10901,
+    "ClaimType": "RoleCode",
+    "Order": 4
+  },
+  {
+    "RoleLevelName": "校区",
+    "RoleLevel": 10901,
+    "ClaimType": "SchoolCode",
+    "Order": 1
+  },
+  {
+    "RoleLevelName": "校区",
+    "RoleLevel": 10901,
+    "ClaimType": "CampusCode",
+    "Order": 2
+  },
+  {
+    "RoleLevelName": "学段",
+    "RoleLevel": 11001,
+    "ClaimType": "TeamModelId",
+    "Order": 4
+  },
+  {
+    "RoleLevelName": "学段",
+    "RoleLevel": 11001,
+    "ClaimType": "RoleCode",
+    "Order": 5
+  },
+  {
+    "RoleLevelName": "学段",
+    "RoleLevel": 11001,
+    "ClaimType": "SchoolCode",
+    "Order": 1
+  },
+  {
+    "RoleLevelName": "学段",
+    "RoleLevel": 11001,
+    "ClaimType": "CampusCode",
+    "Order": 2
+  },
+  {
+    "RoleLevelName": "学段",
+    "RoleLevel": 11001,
+    "ClaimType": "PeriodCode",
+    "Order": 3
+  },
+  {
+    "RoleLevelName": "年级",
+    "RoleLevel": 11101,
+    "ClaimType": "TeamModelId",
+    "Order": 5
+  },
+  {
+    "RoleLevelName": "年级",
+    "RoleLevel": 11101,
+    "ClaimType": "RoleCode",
+    "Order": 6
+  },
+  {
+    "RoleLevelName": "年级",
+    "RoleLevel": 11101,
+    "ClaimType": "SchoolCode",
+    "Order": 1
+  },
+  {
+    "RoleLevelName": "年级",
+    "RoleLevel": 11101,
+    "ClaimType": "CampusCode",
+    "Order": 2
+  },
+  {
+    "RoleLevelName": "年级",
+    "RoleLevel": 11101,
+    "ClaimType": "PeriodCode",
+    "Order": 3
+  },
+  {
+    "RoleLevelName": "年级",
+    "RoleLevel": 11101,
+    "ClaimType": "GradeCode",
+    "Order": 4
+  },
+  {
+    "RoleLevelName": "班级",
+    "RoleLevel": 11201,
+    "ClaimType": "TeamModelId",
+    "Order": 6
+  },
+  {
+    "RoleLevelName": "班级",
+    "RoleLevel": 11201,
+    "ClaimType": "RoleCode",
+    "Order": 7
+  },
+  {
+    "RoleLevelName": "班级",
+    "RoleLevel": 11201,
+    "ClaimType": "SchoolCode",
+    "Order": 1
+  },
+  {
+    "RoleLevelName": "班级",
+    "RoleLevel": 11201,
+    "ClaimType": "CampusCode",
+    "Order": 2
+  },
+  {
+    "RoleLevelName": "班级",
+    "RoleLevel": 11201,
+    "ClaimType": "PeriodCode",
+    "Order": 3
+  },
+  {
+    "RoleLevelName": "班级",
+    "RoleLevel": 11201,
+    "ClaimType": "GradeCode",
+    "Order": 4
+  },
+  {
+    "RoleLevelName": "班级",
+    "RoleLevel": 11201,
+    "ClaimType": "ClassCode",
+    "Order": 5
+  }
+]

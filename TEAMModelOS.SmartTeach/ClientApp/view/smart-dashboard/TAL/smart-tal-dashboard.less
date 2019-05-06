@@ -1,0 +1,363 @@
+#smart-dashboard{
+  width: 100%;
+  height: 100%;
+  // background-color: #5981ad;
+  background-image: url('../../../assets/bak_cloud.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  .Header{
+      width: 100%;
+      position: fixed;
+      padding: 10px 20px;
+      z-index: 1;
+      // background-color: #fff;
+      .smart-mark{
+          letter-spacing: 3px;
+          color: #94998a;
+      }
+      .smart-markD{
+          letter-spacing: 3px;
+          color: #94998a;
+          font-size: 15px;
+          vertical-align: middle;
+      }
+      .menu{
+          float: right;
+          height: initial;
+          background-color: transparent;
+          li{
+              color: #94998a;
+              line-height: initial;
+          }
+      }
+  }
+  .content{
+    padding-top: 40px;
+    height: 100%;
+    overflow: auto;
+    .dashBoardBtn{
+      background-color: transparent;
+      border-color: #94998a;
+      color: #94998a;
+      &:hover, &.select{
+        background-color: #94998a;
+        color: #333;
+      }
+    }
+    .box{
+      padding: 10px 0px 0px 0;
+      height: 94%;
+      margin: 0;
+      .block-1{
+        margin: 0 10px;
+        height: 100%;
+        .total{
+          height: 100%;
+          padding: 3.5% 0;
+          &-box{
+            height: 100%;
+            text-align: center;
+            border-top:1px solid #94998a;
+            border-bottom:1px solid #94998a;
+            padding: 11% 0;
+            position: relative;
+            border-radius: 5px;
+            &-border {
+              position: absolute;
+              width: 30px;
+              height: 30px;
+            }        
+            &-left-top {
+              top: -1px;
+              left: -1px;
+              border-left: 1px solid #94998a;
+              border-top: 1px solid #94998a;
+              border-top-left-radius: 5px;
+            }
+            &-right-top {
+              top: -1px;
+              right: -1px;
+              border-right: 1px solid #94998a;
+              border-top: 1px solid #94998a;
+              border-top-right-radius: 5px;
+            }
+            &-left-bottom {
+              bottom: -1px;
+              left: -1px;
+              border-left: 1px solid #94998a;
+              border-bottom: 1px solid #94998a;
+              border-bottom-left-radius: 5px;
+            }
+            &-right-bottom {
+              bottom: -1px;
+              right: -1px;
+              border-right: 1px solid #94998a;
+              border-bottom: 1px solid #94998a;
+              border-bottom-right-radius: 5px;
+            }
+            &-title{
+              color: #94998a;
+              font-size: 1.1em;
+            }
+            &-number{
+              font-size: 2em;
+              color: #FAFAFA;
+              font-weight: 100;
+            }
+            &-subtitle{
+              color: #e3e3e3;
+            }
+          }
+        }
+        .course{
+          padding: 15px 7px 0 0;
+          margin-left: 25px;
+          border-bottom: solid 1px #94998a;
+          &-Row{
+            padding-bottom: 7px;
+          }
+          &-className{
+            font-size: 1.3em;
+            font-weight: 100;
+            color: #fafafa
+          }
+          &-user{
+            max-width: 220px;
+            color: #A9B2B8;
+            display: inline-block;
+            vertical-align: middle;
+            font-size: 1em;
+          }
+          &-icon{
+            color: #A9B2B8;
+            display: inline-block;
+            vertical-align: middle;
+          }
+          &-text{
+            color: rgba(228, 233, 220, 0.63);
+          }
+        }
+      }
+      .block-2{
+        margin: 0 10px;
+        height: 100%;
+        .classroom{
+          padding-bottom:7px;
+          text-align: center;
+          &-title{
+            display: block;
+            color:#94998a;
+            font-size: 1em;
+          }
+          &-number{
+            color: #fafafa;
+            font-size: 2em;
+            font-weight: 100;
+          }
+          &:hover{
+            background: -webkit-linear-gradient(bottom, rgba(147, 166, 150, 0), rgba(147, 166, 150, 0.42));
+            background: -o-linear-gradient(bottom,rgba(147, 166, 150, 0), rgba(147, 166, 150, 0.42));
+            background: -moz-linear-gradient(bottom,rgba(147, 166, 150, 0), rgba(147, 166, 150, 0.42));
+            background: linear-gradient(to bottom,rgba(147, 166, 150, 0), rgba(147, 166, 150, 0.42));
+          }
+        }
+      }
+      .block-3{
+        margin: 0 10px;
+        height: 100%;
+        .today-class-content{
+          height: 100%;
+          &-title{
+            height: 12%;
+            font-size: 1.25em;
+            color:#E4E9DC;
+            padding: 15px 0 15px 15px;
+            font-weight: 100;
+          }
+          &-contents{
+            height: 88%;
+            .chart{
+              height: 100%;
+            }
+            .detail{
+              height: 100%;
+              .detail-row{
+                height: 100%;
+                padding: 5px 0;
+                .detail-col{
+                  cursor: pointer;
+                  height:33.33333%;
+                  color: #fafafa;
+                  .detail-title{
+                    display: block;
+                    color: #94998a;
+                    padding-left: 5px;
+                    border-left: 2px solid #333;
+                    font-size: 1.1em;
+                    &-border-red{
+                      border-left-color: #FF6B6A;
+                    }
+                    &-border-green{
+                      border-left-color: #1CD0A1;
+                    }
+                    &-border-pink{
+                      border-left-color: #FF9FF4;
+                    }
+                    &-border-yellow{
+                      border-left-color: #FDC958;
+                    }
+                    &-border-blue{
+                      border-left-color: #48DBFC;
+                    }
+                    &-border-orange{
+                      border-left-color: #FFAD76;
+                    }
+                  }
+                  .detail-amount{
+                    font-size: 1.4em;
+                    font-weight: 100;
+                    padding-left: 5px;
+                  }
+                }
+              }
+
+            }
+          }
+        }
+        .course-content{
+          height: 100%;
+          &-title{
+            height: 14%;
+            h5{
+              border-bottom: 1px solid #94998a;
+              font-size: 1.25em;
+              color: #E4E9DC;
+              font-weight: 100;
+              height: 100%;
+              padding: 1.5%;
+            }
+          }
+          &-contents{
+            height: 86%;
+            &-left{
+              border-right: 1px solid #94998a;
+              height: 100%;
+              &-row{
+                height: 100%;
+                padding: 5px 0;
+                &-col{
+                  height: 24%;
+                  .contents-box{
+                    width: 77px;
+                    margin: auto;
+                    &-title{
+                      display: block;
+                      color: #94998a;
+                      padding-left: 5px;
+                      border-left: 2px solid #333;
+                      font-size: 1.1em;
+                    }
+                    &-num{
+                      font-size: 1.4em;
+                      color: #fafafa;
+                      font-weight: 100;
+                      padding-left: 5px;
+                    }
+                    &-subtitle{
+                      display: block;
+                      color: #A9B2B8;
+                      padding-left: 5px;
+                      font-size: 0.9em;
+                    }
+                    &-border-red{
+                      border-left-color: #FF6B6A;
+                    }
+                    &-border-green{
+                      border-left-color: #1CD0A1;
+                    }
+                    &-border-pink{
+                      border-left-color: #FF9FF4;
+                    }
+                    &-border-yellow{
+                      border-left-color: #FDC958;
+                    }
+                    &-border-blue{
+                      border-left-color: #48DBFC;
+                    }
+                    &-border-orange{
+                      border-left-color: #FFAD76;
+                    }
+                    &-border-purple{
+                      border-left-color: rgb(182,130,248);
+                    }
+                  }
+                }
+              }
+            }
+            &-right{
+              height: 100%;
+            }
+          }
+        }
+      }
+      .block-4{
+        margin: 0 10px;
+        height: 100%;
+        .teachingEvent{
+          height: 80%;
+          &-row{
+            height: 100%;
+            &-col{
+              height:100%;
+              .teachContent{
+                height: 100%;
+                &-box{
+                  text-align: center;
+                  &-title{
+                    font-size: 1.2em;
+                    display: block;
+                    color: #94998a;
+                  }
+                  &-num{
+                    display: block;
+                    color: #fafafa;
+                    font-weight: 100;
+                    font-size: 2.5em;
+                  }
+                  &-subnum{
+                    font-size: 1em;
+                    display: block;
+                    color: #fafafa;
+                  }
+                }
+              }
+            }
+          }
+
+        }
+      }
+    }
+  }
+}
+.block-border{
+  border: 0.1px solid rgba(148, 153, 138, 0.63);
+}
+.scrollstyle::-webkit-scrollbar {
+    width: 5px;
+}
+.scrollstyle::-webkit-scrollbar-track {
+  margin: 6px;
+  background: transparent;
+}
+.scrollstyle::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: #94998a;
+}
+.scrollstyle::-webkit-scrollbar-thumb:hover {
+  // background: #555;
+}
+.scrollstyle::-webkit-scrollbar-button {
+  display: none;
+}

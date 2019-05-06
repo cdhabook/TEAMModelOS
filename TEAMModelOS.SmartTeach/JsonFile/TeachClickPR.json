@@ -1,0 +1,67 @@
+﻿{
+  "accuracydata": [
+    {
+      "id": "1",
+      "idname": "pie_one",
+      "echartstitle": "高一.一班级答对率",
+      "titlenum": "79",
+      "occupy": "79",
+      "residue": "21",
+      "data_name": "高一.一班级答对占比",
+      "high_accuracy": "72",
+      "low_accuracy": "34"
+    },
+    {
+      "id": "2",
+      "idname": "pie_two",
+      "echartstitle": "校级答对率",
+      "titlenum": "75",
+      "occupy": "75",
+      "residue": "25",
+      "high_accuracy": "70",
+      "low_accuracy": "55"
+    },
+    {
+      "id": "3",
+      "idname": "pie_three",
+      "echartstitle": "区级答对率",
+      "titlenum": "73.8",
+      "occupy": "73.8",
+      "residue": "26.2",
+      "high_accuracy": "75",
+      "low_accuracy": "60"
+    }
+  ],
+  "percentdata": [
+    {
+      "id": "4",
+      "idname": "pr_one",
+      "echartstitle": "高一.一班级PR值",
+      "titlenum": "82",
+      "occupy": "82",
+      "residue": "18",
+      "icon_type": "ios-arrow-round-down",
+      "icon_color": "icon_down"
+    },
+    {
+      "id": "5",
+      "idname": "pr_two",
+      "echartstitle": "校级排名PR值",
+      "titlenum": "90",
+      "occupy": "90",
+      "residue": "10",
+      "icon_type": "ios-arrow-round-up ",
+      "icon_color": "icon_top"
+    },
+    {
+      "id": "6",
+      "idname": "pr_three",
+      "echartstitle": "区级排名PR值",
+      "titlenum": "92",
+      "occupy": "92",
+      "residue": "8",
+      "icon_type": "ios-arrow-round-down",
+      "icon_color": "icon_down"
+    }
+  ]
+}

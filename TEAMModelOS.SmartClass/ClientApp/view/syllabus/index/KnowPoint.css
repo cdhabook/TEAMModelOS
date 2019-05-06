@@ -1,0 +1,258 @@
+.know-main {
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    padding: 20px 20px 20px 0;
+    box-sizing: border-box;
+}
+
+
+.content-wrap {
+    width: 100%;
+    height: 100%;
+    border: 2px solid #464646;
+}
+
+.header-wrap {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 2px solid #464646;
+}
+
+    .header-wrap /deep/ .ivu-input {
+        height: 48px;
+        border: 0;
+        padding-left: 15px;
+        border-radius: 0 !important;
+        border-right: 2px solid #464646;
+        font-size: 14px;
+        font-weight: bold;
+        color: #464646;
+    }
+
+        .header-wrap /deep/ .ivu-input::-webkit-input-placeholder {
+            color: #464646;
+        }
+
+    .header-wrap /deep/ .ivu-input-suffix i {
+        line-height: 50px;
+    }
+
+.header-right {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-right-item {
+    margin-right: 25px;
+    font-weight: 500;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.list-type .ivu-icon {
+    margin-left: 10px;
+    color: rgb(154,154,154);
+    cursor: pointer;
+}
+
+.list-type-active {
+    color: #fff !important;
+    background-color: rgb(154,154,154);
+    border-radius: 50%;
+    padding: 3px;
+}
+
+.sy-list-wrap {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 50px;
+}
+
+    .sy-list-wrap .knowpoints-filter {
+        width: 100%;
+        height: 50px;
+        border-bottom: 2px solid #464646;
+        margin-bottom: 10px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+        .sy-list-wrap .knowpoints-filter span {
+            margin-left: 20px;
+            font-size: 14px;
+            color: rgb(78,78,78);
+            cursor: pointer;
+        }
+
+        .sy-list-wrap .knowpoints-filter .sort-active {
+            color: #000;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+.list-col {
+    overflow-y: auto;
+    height: 100%;
+}
+
+    .list-col /deep/ .ivu-input-wrapper {
+        width: 60%;
+    }
+
+.list-knowpoints {
+    /*padding-top:30px;*/
+}
+
+.sy-list-wrap /deep/ .ivu-collapse > .ivu-collapse-item > .ivu-collapse-header {
+    height: 100px;
+    line-height: 100px;
+}
+
+.collapse-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.know-block-item {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 15px;
+    border-bottom: 1px solid #464646;
+    cursor: pointer;
+}
+
+    .know-block-item:hover {
+        background: #fff;
+    }
+
+.know-block-name {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.know-block-builder {
+    margin-left: 15px;
+}
+
+.compose-block-tab /deep/ .ivu-input {
+    width: 90%;
+}
+
+.compose-block-tab /deep/ .ivu-tabs-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.compose-block-tab /deep/ .ivu-radio-group {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+}
+
+.compose-block-tab /deep/ .ivu-radio {
+    margin: 10px;
+}
+
+.compose-block-tab /deep/ .ivu-tabs-tabpane {
+    padding-left: 10px;
+}
+
+.compose-block-tab .checked-points {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+    .compose-block-tab .checked-points .knowpoint-item {
+        padding: 5px 10px;
+    }
+
+.modal-title {
+    margin: 10px;
+}
+
+.list-col::-webkit-scrollbar { /*滚动条整体样式*/
+    width: 0px; /*高宽分别对应横竖滚动条的尺寸*/
+    height: 1px;
+}
+
+.list-col:hover .ztree_box::-webkit-scrollbar {
+    width: 5px;
+}
+
+.list-col::-webkit-scrollbar-thumb { /*滚动条里面小方块*/
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+    background: rgba(255,255,38,1.000);
+}
+
+.list-col::-webkit-scrollbar-track { /*滚动条里面轨道*/
+    background-color: rgba(244,244,0,0.957);
+}
+
+.knowpoints {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0 10px;
+}
+
+.knowpoint-item {
+    position: relative;
+    display: flex;
+    padding: 10px 20px;
+    margin: 5px;
+    background: rgb(255,255,255);
+    color: #464646;
+    border: 1px solid rgb(216, 216, 216);
+    border-radius: 100px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+    .knowpoint-item:hover, .knowpoint-item-active {
+        background: rgb(45, 140, 240);
+        color: #fff !important;
+    }
+
+    .knowpoint-item .ivu-icon {
+        margin-left: 5px;
+    }
+
+.k-tools {
+    visibility: hidden;
+}
+
+.k-block-tools {
+    margin-left: 20px;
+    visibility: hidden;
+}
+
+    .k-block-tools .ivu-icon {
+        margin-left: 15px;
+        font-size: 16px;
+    }
+
+.overflow-text {
+    display: inline-block;
+    width: 60%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

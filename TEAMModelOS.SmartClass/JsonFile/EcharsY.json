@@ -1,0 +1,91 @@
+﻿[
+  {
+    "id": "1",
+    "title": "全校平均",
+    "belowscore": "71.2",
+    "score": "78",
+    "subject": "语文",
+    "occupy": "80",
+    "surplus": "20",
+    "below_title": "全区平均",
+    "icon_type": "ios-arrow-round-up",
+    "icon_color": "icon_top",
+    "color": "#1cd0a1",
+    "state": 1
+  },
+  {
+
+    "id": "2",
+    "title": "全校平均",
+    "score": "54.5",
+    "subject": "数学",
+    "occupy": "55",
+    "surplus": "45",
+    "below_title": "全区平均",
+    "belowscore": "68.5",
+    "icon_type": "ios-arrow-round-down",
+    "icon_color": "icon_down",
+    "color": "#ff6b6b",
+    "state": 0
+  },
+  {
+
+    "id": "3",
+    "title": "全校平均",
+    "score": "72.9",
+    "subject": "英语",
+    "occupy": "70",
+    "surplus": "30",
+    "below_title": "全区平均",
+    "belowscore": "69.5",
+    "icon_type": "ios-arrow-round-up",
+    "icon_color": "icon_top",
+    "color": "#1cd0a1",
+    "state": 1
+  },
+  {
+
+    "id": "4",
+    "title": "全校平均",
+    "score": "68.3",
+    "subject": "物理",
+    "occupy": "60",
+    "surplus": "40",
+    "below_title": "全区平均",
+    "belowscore": "70",
+    "icon_type": "ios-arrow-round-down",
+    "icon_color": "icon_down",
+    "color": "#FDD889",
+    "state": 0
+  },
+  {
+
+    "id": "5",
+    "title": "全校平均",
+    "score": "77.8",
+    "subject": "化学",
+    "occupy": "78",
+    "surplus": "22",
+    "below_title": "全区平均",
+    "belowscore": "73",
+    "icon_type": "ios-arrow-round-down",
+    "icon_color": "icon_down",
+    "color": "#FDD889",
+    "state": 1
+  },
+  {
+
+    "id": "6",
+    "title": "全校平均",
+    "score": "85.8",
+    "subject": "生物",
+    "occupy": "85",
+    "surplus": "15",
+    "below_title": "全区平均",
+    "belowscore": "78",
+    "icon_type": "ios-arrow-round-up",
+    "icon_color": "icon_top",
+    "color": "#1cd0a1",
+    "state": 0
+  }
+]

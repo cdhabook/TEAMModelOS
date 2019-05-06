@@ -1,0 +1,900 @@
+[
+  {
+    "pointId": "237",
+    "pointName": "语言知识基础",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "238",
+        "pointName": "语言知识运用",
+        "pointPid": "237",
+        "childPoint": [
+          {
+            "pointId": "239",
+            "pointName": "字音",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "240",
+            "pointName": "字形",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "241",
+            "pointName": "标点符号",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "242",
+            "pointName": "正确使用词语（包括熟语）",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "243",
+            "pointName": "扩展语句",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "244",
+            "pointName": "压缩语段",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "245",
+            "pointName": "选用、变换句式",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "246",
+            "pointName": "语言表达简明、连贯、得体、准确、鲜明、生动",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "247",
+            "pointName": "辨析并修改病句",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "248",
+            "pointName": "仿用句式、正确运用常见的修辞手法",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "249",
+            "pointName": "图文转换",
+            "pointPid": "238"
+          },
+          {
+            "pointId": "250",
+            "pointName": "语言综合运用",
+            "pointPid": "238"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "251",
+    "pointName": "古诗文阅读",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "252",
+        "pointName": "文言文阅读",
+        "pointPid": "251",
+        "childPoint": [
+          {
+            "pointId": "253",
+            "pointName": "文言实词",
+            "pointPid": "252"
+          },
+          {
+            "pointId": "254",
+            "pointName": "文言虚词",
+            "pointPid": "252"
+          },
+          {
+            "pointId": "255",
+            "pointName": "文言文断句（文言句式、古今异义）",
+            "pointPid": "252"
+          },
+          {
+            "pointId": "256",
+            "pointName": "文言文翻译",
+            "pointPid": "252"
+          },
+          {
+            "pointId": "257",
+            "pointName": "筛选信息",
+            "pointPid": "252"
+          },
+          {
+            "pointId": "258",
+            "pointName": "理解文意",
+            "pointPid": "252"
+          },
+          {
+            "pointId": "259",
+            "pointName": "分析概括作者在文中的观点态度",
+            "pointPid": "252"
+          },
+          {
+            "pointId": "260",
+            "pointName": "鉴赏文学作品的形象、语言和表达技巧",
+            "pointPid": "252"
+          },
+          {
+            "pointId": "291",
+            "pointName": "归纳内容要点，概括中心意思",
+            "pointPid": "252"
+          }
+        ]
+      },
+      {
+        "pointId": "261",
+        "pointName": "古代诗歌鉴赏",
+        "pointPid": "251",
+        "childPoint": [
+          {
+            "pointId": "262",
+            "pointName": "鉴赏古代诗歌的形象",
+            "pointPid": "261"
+          },
+          {
+            "pointId": "263",
+            "pointName": "鉴赏古代诗歌的语言",
+            "pointPid": "261"
+          },
+          {
+            "pointId": "264",
+            "pointName": "鉴赏古代诗歌的表达技巧",
+            "pointPid": "261"
+          },
+          {
+            "pointId": "265",
+            "pointName": "评价诗歌的思想内容和作者的观点态度",
+            "pointPid": "261"
+          },
+          {
+            "pointId": "266",
+            "pointName": "鉴赏古代诗歌的谋篇布局",
+            "pointPid": "261"
+          },
+          {
+            "pointId": "267",
+            "pointName": "古代诗歌对比鉴赏",
+            "pointPid": "261"
+          },
+          {
+            "pointId": "268",
+            "pointName": "诗歌题材辨析",
+            "pointPid": "261"
+          },
+          {
+            "pointId": "269",
+            "pointName": "筛选信息",
+            "pointPid": "261"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "270",
+    "pointName": "现代文阅读",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "271",
+        "pointName": "论述类文章阅读",
+        "pointPid": "270",
+        "childPoint": [
+          {
+            "pointId": "272",
+            "pointName": "理解文中重要概念的含义",
+            "pointPid": "271"
+          },
+          {
+            "pointId": "273",
+            "pointName": "理解文中重要句子的含意",
+            "pointPid": "271"
+          },
+          {
+            "pointId": "274",
+            "pointName": "理解文意，筛选并整合文中的信息",
+            "pointPid": "271"
+          },
+          {
+            "pointId": "275",
+            "pointName": "分析文章结构，把握文章思路",
+            "pointPid": "271"
+          },
+          {
+            "pointId": "276",
+            "pointName": "归纳内容要点，概括中心意思",
+            "pointPid": "271"
+          },
+          {
+            "pointId": "277",
+            "pointName": "分析概括作者在文中的观点态度",
+            "pointPid": "271"
+          },
+          {
+            "pointId": "278",
+            "pointName": "根据文章内容进行推断和想象",
+            "pointPid": "271"
+          },
+          {
+            "pointId": "279",
+            "pointName": "探究文本中的某些问题，提出自己的见解",
+            "pointPid": "271"
+          }
+        ]
+      },
+      {
+        "pointId": "280",
+        "pointName": "文学类文本阅读（小说）",
+        "pointPid": "270",
+        "childPoint": [
+          {
+            "pointId": "281",
+            "pointName": "理解文意，筛选并整合文中的信息",
+            "pointPid": "280"
+          },
+          {
+            "pointId": "282",
+            "pointName": "欣赏人物形象",
+            "pointPid": "280"
+          },
+          {
+            "pointId": "283",
+            "pointName": "鉴赏环境描写",
+            "pointPid": "280"
+          },
+          {
+            "pointId": "284",
+            "pointName": "分析表达技巧",
+            "pointPid": "280"
+          },
+          {
+            "pointId": "285",
+            "pointName": "对文本进行个性化阅读和有创意的解读",
+            "pointPid": "280"
+          },
+          {
+            "pointId": "286",
+            "pointName": "体会重要语句的丰富含意，品味精彩的语言艺术",
+            "pointPid": "280"
+          },
+          {
+            "pointId": "287",
+            "pointName": "概括故事情节，分析作品结构，把握文章思路",
+            "pointPid": "280"
+          },
+          {
+            "pointId": "288",
+            "pointName": "理解小说的思想意蕴",
+            "pointPid": "280"
+          },
+          {
+            "pointId": "1943",
+            "pointName": "分析概括作者在文中的观点态度",
+            "pointPid": "280"
+          }
+        ]
+      },
+      {
+        "pointId": "289",
+        "pointName": "文学类文本阅读（散文）",
+        "pointPid": "270",
+        "childPoint": [
+          {
+            "pointId": "290",
+            "pointName": "理解词语及语句含意，品味语言表达艺术",
+            "pointPid": "289"
+          },
+          {
+            "pointId": "292",
+            "pointName": "分析作品结构，概括作品主题，把握文章思路",
+            "pointPid": "289"
+          },
+          {
+            "pointId": "294",
+            "pointName": "分析作品体裁的基本特征和主要表现手法",
+            "pointPid": "289"
+          },
+          {
+            "pointId": "295",
+            "pointName": "理解文意，筛选并整合文中的信息",
+            "pointPid": "289"
+          },
+          {
+            "pointId": "296",
+            "pointName": "评价文章的思想内容和作者的观点态度",
+            "pointPid": "289"
+          },
+          {
+            "pointId": "297",
+            "pointName": "鉴赏作品的形象,赏析作品的内涵,领悟作品的艺术魅力",
+            "pointPid": "289"
+          },
+          {
+            "pointId": "298",
+            "pointName": "探究文章深意，对作品进行个性化阅读和有创意地解读",
+            "pointPid": "289"
+          },
+          {
+            "pointId": "2798",
+            "pointName": "归纳内容要点，概括中心意思",
+            "pointPid": "289"
+          }
+        ]
+      },
+      {
+        "pointId": "299",
+        "pointName": "实用类文本阅读（传记）",
+        "pointPid": "270",
+        "childPoint": [
+          {
+            "pointId": "300",
+            "pointName": "理解文意，筛选并整合文中的信息",
+            "pointPid": "299"
+          },
+          {
+            "pointId": "301",
+            "pointName": "分析文本的文体基本特征和主要表现手法",
+            "pointPid": "299"
+          },
+          {
+            "pointId": "302",
+            "pointName": "分析语言特色，把握文章结构，概括中心意思",
+            "pointPid": "299"
+          },
+          {
+            "pointId": "303",
+            "pointName": "把握传主的个性特征",
+            "pointPid": "299"
+          },
+          {
+            "pointId": "304",
+            "pointName": "评价文本的主要观点和基本倾向",
+            "pointPid": "299"
+          },
+          {
+            "pointId": "305",
+            "pointName": "评价文本产生的社会价值和影响",
+            "pointPid": "299"
+          },
+          {
+            "pointId": "306",
+            "pointName": "对文本的某种特色作深度的思考和判断",
+            "pointPid": "299"
+          },
+          {
+            "pointId": "307",
+            "pointName": "发掘文本所反映的人生价值和时代精神",
+            "pointPid": "299"
+          },
+          {
+            "pointId": "308",
+            "pointName": "探讨作者的写作背景和写作意图",
+            "pointPid": "299"
+          },
+          {
+            "pointId": "309",
+            "pointName": "探究文本中的某些问题，提出自己的见解",
+            "pointPid": "299"
+          }
+        ]
+      },
+      {
+        "pointId": "310",
+        "pointName": "实用类文本阅读（新闻、科普文章）",
+        "pointPid": "270",
+        "childPoint": [
+          {
+            "pointId": "311",
+            "pointName": "理解文意，筛选并整合文中的信息",
+            "pointPid": "310"
+          },
+          {
+            "pointId": "312",
+            "pointName": "体会重要语句的丰富含意，品味精彩的语言艺术",
+            "pointPid": "310"
+          },
+          {
+            "pointId": "313",
+            "pointName": "把握文本中心内容",
+            "pointPid": "310"
+          },
+          {
+            "pointId": "314",
+            "pointName": "理清文脉，把握结构",
+            "pointPid": "310"
+          },
+          {
+            "pointId": "315",
+            "pointName": "研究文体特征，分析表现手法",
+            "pointPid": "310"
+          },
+          {
+            "pointId": "316",
+            "pointName": "分析概括作者在文中的观点态度",
+            "pointPid": "310"
+          },
+          {
+            "pointId": "317",
+            "pointName": "探究文本中某些问题，提出自己的见解",
+            "pointPid": "310"
+          }
+        ]
+      },
+      {
+        "pointId": "36512",
+        "pointName": "论述类文本阅读",
+        "pointPid": "270",
+        "childPoint": [
+          {
+            "pointId": "36513",
+            "pointName": "理解文中重要概念的含义",
+            "pointPid": "36512"
+          },
+          {
+            "pointId": "36514",
+            "pointName": "理解文中重要句子的丰富含意",
+            "pointPid": "36512"
+          },
+          {
+            "pointId": "36515",
+            "pointName": "把握文章标题的含义和作用",
+            "pointPid": "36512"
+          },
+          {
+            "pointId": "36516",
+            "pointName": "筛选并整合文中的信息",
+            "pointPid": "36512"
+          },
+          {
+            "pointId": "36517",
+            "pointName": "分析文章结构，把握文章思路",
+            "pointPid": "36512"
+          },
+          {
+            "pointId": "36518",
+            "pointName": "归纳内容要点，概括中心意思",
+            "pointPid": "36512"
+          },
+          {
+            "pointId": "36519",
+            "pointName": "分析概括作者在文中的观点态度",
+            "pointPid": "36512"
+          },
+          {
+            "pointId": "36520",
+            "pointName": "把握文章论述的方法和表达艺术",
+            "pointPid": "36512"
+          },
+          {
+            "pointId": "36521",
+            "pointName": "拓展探究",
+            "pointPid": "36512"
+          }
+        ]
+      },
+      {
+        "pointId": "36522",
+        "pointName": "文学类文本阅读",
+        "pointPid": "270",
+        "childPoint": [
+          {
+            "pointId": "36523",
+            "pointName": "理解文意，筛选并整合文中的信息",
+            "pointPid": "36522"
+          },
+          {
+            "pointId": "36524",
+            "pointName": "把握文章标题的含义和作用",
+            "pointPid": "36522"
+          },
+          {
+            "pointId": "36525",
+            "pointName": "归纳内容要点，概括中心意思",
+            "pointPid": "36522"
+          },
+          {
+            "pointId": "36526",
+            "pointName": "分析作品结构，把握文章情感脉络",
+            "pointPid": "36522"
+          },
+          {
+            "pointId": "36527",
+            "pointName": "分析作品体裁的基本特征和主要表现手法",
+            "pointPid": "36522"
+          },
+          {
+            "pointId": "36528",
+            "pointName": "体会重要语句的含意，品味语言的表达艺术",
+            "pointPid": "36522"
+          },
+          {
+            "pointId": "36529",
+            "pointName": "欣赏作品的形象",
+            "pointPid": "36522"
+          },
+          {
+            "pointId": "36530",
+            "pointName": "作者的观点和情感态度",
+            "pointPid": "36522"
+          },
+          {
+            "pointId": "36531",
+            "pointName": "拓展探究",
+            "pointPid": "36522"
+          }
+        ]
+      },
+      {
+        "pointId": "36532",
+        "pointName": "实用类文本阅读",
+        "pointPid": "270",
+        "childPoint": [
+          {
+            "pointId": "36533",
+            "pointName": "理解重要词句含意及其作用",
+            "pointPid": "36532"
+          },
+          {
+            "pointId": "36534",
+            "pointName": "把握文章标题的含义和作用",
+            "pointPid": "36532"
+          },
+          {
+            "pointId": "36535",
+            "pointName": "筛选并整合文中信息",
+            "pointPid": "36532"
+          },
+          {
+            "pointId": "36536",
+            "pointName": "分析语言特色，把握文章结构，概括中心意思",
+            "pointPid": "36532"
+          },
+          {
+            "pointId": "36537",
+            "pointName": "分析文本的文体特征和主要表现手法",
+            "pointPid": "36532"
+          },
+          {
+            "pointId": "36538",
+            "pointName": "评价文本的主要观点",
+            "pointPid": "36532"
+          },
+          {
+            "pointId": "36539",
+            "pointName": "评价文本产生的社会价值和影响",
+            "pointPid": "36532"
+          },
+          {
+            "pointId": "36540",
+            "pointName": "拓展探究",
+            "pointPid": "36532"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "318",
+    "pointName": "名句默写",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "319",
+        "pointName": "诗",
+        "pointPid": "318"
+      },
+      {
+        "pointId": "320",
+        "pointName": "词",
+        "pointPid": "318"
+      },
+      {
+        "pointId": "321",
+        "pointName": "曲",
+        "pointPid": "318"
+      },
+      {
+        "pointId": "322",
+        "pointName": "其他",
+        "pointPid": "318"
+      }
+    ]
+  },
+  {
+    "pointId": "323",
+    "pointName": "文学名著、文化经典阅读",
+    "pointPid": "0"
+  },
+  {
+    "pointId": "325",
+    "pointName": "文学常识",
+    "pointPid": "0"
+  },
+  {
+    "pointId": "327",
+    "pointName": "材料概括分析",
+    "pointPid": "0"
+  },
+  {
+    "pointId": "329",
+    "pointName": "作文",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "330",
+        "pointName": "命题作文",
+        "pointPid": "329"
+      },
+      {
+        "pointId": "331",
+        "pointName": "话题作文",
+        "pointPid": "329"
+      },
+      {
+        "pointId": "332",
+        "pointName": "材料作文",
+        "pointPid": "329"
+      },
+      {
+        "pointId": "333",
+        "pointName": "小作文",
+        "pointPid": "329"
+      }
+    ]
+  },
+  {
+    "pointId": "36471",
+    "pointName": "语言文字应用",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "36472",
+        "pointName": "字音",
+        "pointPid": "36471"
+      },
+      {
+        "pointId": "36473",
+        "pointName": "字形",
+        "pointPid": "36471"
+      },
+      {
+        "pointId": "36474",
+        "pointName": "正确使用标点符号",
+        "pointPid": "36471"
+      },
+      {
+        "pointId": "36475",
+        "pointName": "正确使用词语（包括熟语）",
+        "pointPid": "36471"
+      },
+      {
+        "pointId": "36476",
+        "pointName": "辨析并修改病句",
+        "pointPid": "36471"
+      },
+      {
+        "pointId": "36477",
+        "pointName": "扩展语句，压缩语段",
+        "pointPid": "36471"
+      },
+      {
+        "pointId": "36478",
+        "pointName": "选用、仿用、变换句式",
+        "pointPid": "36471"
+      },
+      {
+        "pointId": "36479",
+        "pointName": "鉴赏修辞手法",
+        "pointPid": "36471"
+      },
+      {
+        "pointId": "36480",
+        "pointName": "语言表达简明、连贯、得体、准确、鲜明、生动",
+        "pointPid": "36471"
+      },
+      {
+        "pointId": "36481",
+        "pointName": "图文转换",
+        "pointPid": "36471"
+      },
+      {
+        "pointId": "36482",
+        "pointName": "语言综合运用",
+        "pointPid": "36471"
+      }
+    ]
+  },
+  {
+    "pointId": "36483",
+    "pointName": "文学文化常识和名篇句名默写",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "36484",
+        "pointName": "文学文化常识",
+        "pointPid": "36483",
+        "childPoint": [
+          {
+            "pointId": "36485",
+            "pointName": "中国古代文化常识",
+            "pointPid": "36484"
+          },
+          {
+            "pointId": "36486",
+            "pointName": "文学体裁常识",
+            "pointPid": "36484"
+          },
+          {
+            "pointId": "36487",
+            "pointName": "中国古代作家作品",
+            "pointPid": "36484"
+          },
+          {
+            "pointId": "36488",
+            "pointName": "中国现当代作家作品",
+            "pointPid": "36484"
+          },
+          {
+            "pointId": "36489",
+            "pointName": "外国古今作家作品",
+            "pointPid": "36484"
+          },
+          {
+            "pointId": "36490",
+            "pointName": "主要的文学风格与流派",
+            "pointPid": "36484"
+          }
+        ]
+      },
+      {
+        "pointId": "36491",
+        "pointName": "名篇名句默写",
+        "pointPid": "36483",
+        "childPoint": [
+          {
+            "pointId": "36492",
+            "pointName": "文言文名句",
+            "pointPid": "36491"
+          },
+          {
+            "pointId": "36493",
+            "pointName": "古诗词曲名句",
+            "pointPid": "36491"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "36494",
+    "pointName": "古代诗文阅读",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "36495",
+        "pointName": "文言文阅读",
+        "pointPid": "36494",
+        "childPoint": [
+          {
+            "pointId": "36496",
+            "pointName": "文言实词",
+            "pointPid": "36495"
+          },
+          {
+            "pointId": "36497",
+            "pointName": "文言虚词",
+            "pointPid": "36495"
+          },
+          {
+            "pointId": "36498",
+            "pointName": "文言句式",
+            "pointPid": "36495"
+          },
+          {
+            "pointId": "36499",
+            "pointName": "文言文断句",
+            "pointPid": "36495"
+          },
+          {
+            "pointId": "36500",
+            "pointName": "文言文翻译",
+            "pointPid": "36495"
+          },
+          {
+            "pointId": "36501",
+            "pointName": "筛选文中的信息",
+            "pointPid": "36495"
+          },
+          {
+            "pointId": "36502",
+            "pointName": "分析概括作者在文中的观点态度",
+            "pointPid": "36495"
+          },
+          {
+            "pointId": "36503",
+            "pointName": "鉴赏文学作品的形象、语言和表达技巧",
+            "pointPid": "36495"
+          },
+          {
+            "pointId": "36504",
+            "pointName": "归纳内容要点，概括中心意思",
+            "pointPid": "36495"
+          },
+          {
+            "pointId": "36505",
+            "pointName": "拓展探究",
+            "pointPid": "36495"
+          }
+        ]
+      },
+      {
+        "pointId": "36506",
+        "pointName": "诗歌鉴赏",
+        "pointPid": "36494",
+        "childPoint": [
+          {
+            "pointId": "36507",
+            "pointName": "鉴赏古代诗歌的形象意象",
+            "pointPid": "36506"
+          },
+          {
+            "pointId": "36508",
+            "pointName": "鉴赏古代诗歌的语言",
+            "pointPid": "36506"
+          },
+          {
+            "pointId": "36509",
+            "pointName": "鉴赏古代诗歌的表达技巧",
+            "pointPid": "36506"
+          },
+          {
+            "pointId": "36510",
+            "pointName": "评价诗歌的思想内容和作者的观点态度",
+            "pointPid": "36506"
+          },
+          {
+            "pointId": "36511",
+            "pointName": "拓展探究",
+            "pointPid": "36506"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pointId": "36541",
+    "pointName": "写作",
+    "pointPid": "0",
+    "childPoint": [
+      {
+        "pointId": "36542",
+        "pointName": "命题作文",
+        "pointPid": "36541"
+      },
+      {
+        "pointId": "36543",
+        "pointName": "话题作文",
+        "pointPid": "36541"
+      },
+      {
+        "pointId": "36544",
+        "pointName": "材料作文",
+        "pointPid": "36541"
+      },
+      {
+        "pointId": "36545",
+        "pointName": "小作文",
+        "pointPid": "36541"
+      }
+    ]
+  }
+]
